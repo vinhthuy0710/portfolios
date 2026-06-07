@@ -1,3 +1,11 @@
+function getImages(path, count, ext = 'png') {
+    let imgs = '';
+    for (let i = 1; i <= count; i++) {
+        imgs += `<img src="${path}/image${i}.${ext}" alt="Minh chứng" style="width: 100%; max-width: 400px; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onerror="this.style.display='none'">`;
+    }
+    return imgs;
+}
+
 const reportData = [
     {
         week: 1,
@@ -20,10 +28,8 @@ const reportData = [
                     <li>11. Xóa vĩnh viễn: Chọn tệp DiChuyen.txt, nhấn giữ phím Shift và nhấn phím Delete. Tệp sẽ bị xóa vĩnh viễn mà không qua Thùng rác.</li>
                     <li>12. Khôi phục từ Thùng rác: Tìm biểu tượng Recycle Bin trên màn hình nền, nhấp đúp để mở. Tìm tệp GhiChuQuanTrong.txt đã xóa, nhấp chuột phải vào nó và chọn Restore.</li>
                 </ul>
-                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;">
-                    <img src="assets/reports/tuan1/image1.png" alt="Minh chứng tuần 1" style="max-width: 100%; border: 1px solid var(--border); border-radius: 4px;" onerror="this.style.display='none'">
-                    <img src="assets/reports/tuan1/image2.png" alt="Minh chứng tuần 1" style="max-width: 100%; border: 1px solid var(--border); border-radius: 4px;" onerror="this.style.display='none'">
-                    <img src="assets/reports/tuan1/image3.png" alt="Minh chứng tuần 1" style="max-width: 100%; border: 1px solid var(--border); border-radius: 4px;" onerror="this.style.display='none'">
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tuan1', 20)}
                 </div>
             </div>
         `
@@ -92,6 +98,10 @@ const reportData = [
                 </div>
                 <h4 class="t6-h4">3. So sánh và Phân tích</h4>
                 <p class="t6-p"><strong>Prompt Nâng cao</strong> đem lại độ chính xác rất cao, cấu trúc chuyên nghiệp và tính ứng dụng tốt (dùng để giảng dạy hoặc nghiên cứu sâu). Thành công nhờ áp dụng: Context (vai trò chuyên gia), Constraint (yêu cầu nội dung cụ thể), Structure (định dạng đầu ra rõ ràng).</p>
+                
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tuan 3', 3)}
+                </div>
             </div>
         `
     },
@@ -111,6 +121,10 @@ const reportData = [
                 </ul>
                 <h4 class="t6-h4">Phân tích hiệu quả công cụ</h4>
                 <p class="t6-p"><strong>Notion:</strong> Rất hiệu quả trong việc theo dõi tiến độ từng người.<br><strong>GG Drive & Docs:</strong> Không gian lưu trữ và soạn thảo tuyệt vời, dễ dàng đồng bộ.<br><strong>GG Meet & Zalo:</strong> Đảm bảo thông tin xuyên suốt và họp trực tuyến ổn định.</p>
+                
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tmpowajq1_bai-tap-bao-cao-tuan-4', 17)}
+                </div>
             </div>
         `
     },
@@ -135,6 +149,10 @@ const reportData = [
                 <p class="t6-p">Tạo một <strong>Master Prompt Template</strong> cho DALL-E 3: <em>[NỘI DUNG], flat vector illustration, minimalist style, navy blue and amber color palette, white background...</em> để giữ tính đồng nhất về phong cách. Claude được dùng để trích xuất 8 cột mốc quan trọng (như Bài kiểm tra Turing, Deep Blue, ChatGPT).</p>
                 <h4 class="t6-h4">Đánh giá chung</h4>
                 <p class="t6-p">Tỷ lệ đóng góp: <strong>AI ~47%, Cá nhân ~53%</strong>. AI là trợ lý mạnh mẽ trong khi con người đưa ra quyết định sáng tạo cuối cùng (bố cục bằng Canva, chỉnh sửa màu sắc, v.v.).</p>
+                
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tuan 5', 8)}
+                </div>
             </div>
         `
     },
@@ -154,8 +172,8 @@ const reportData = [
                     <div class="t6-prompt-label">Prompt</div>
                     <div class="t6-prompt-body">Hãy giúp tôi lập dàn ý cho bài thuyết trình 5 phút về tác động của AI trong giáo dục đại học.</div>
                 </div>
-                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem;">
-                    <img src="assets/reports/tuan 6/image1.png" alt="Minh chứng tuần 6" style="max-width: 100%; border: 1px solid var(--border); border-radius: 4px;" onerror="this.style.display='none'">
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tuan 6', 1)}
                 </div>
             </div>
         `
@@ -176,31 +194,36 @@ const reportData = [
                 </ul>
                 <h4 class="t6-h4">Nhận xét</h4>
                 <p class="t6-p">Elicit và Consensus tiết kiệm thời gian lớn khi phải đọc tổng quan các bài báo (Literature Review). Tuy nhiên, vẫn cần đọc lại bài báo gốc để kiểm tra tính chính xác của dữ liệu AI trích xuất (đặc biệt là các số liệu và biểu đồ).</p>
+                
+                <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
+                    ${getImages('assets/reports/tuan 7', 1)}
+                    <img src="assets/reports/tuan 7/image2.svg" alt="Minh chứng" style="width: 100%; max-width: 400px; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onerror="this.style.display='none'">
+                </div>
             </div>
         `
     }
 ];
 
 function renderReports() {
-    const container = document.querySelector('.projects-grid');
+    const container = document.querySelector('#reports-container');
     if (!container) return;
 
     let html = '<div class="task-grid" style="display: flex; flex-direction: column; gap: 2rem; width: 100%;">';
 
     reportData.forEach(task => {
         html += `
-            <div class="task-card task-card--full" style="display: flex; flex-direction: column; width: 100%;">
-                <div class="task-header" style="border-bottom: 1px solid var(--border); padding-bottom: 1rem; margin-bottom: 1rem;">
-                    <div class="task-number" style="font-size: 2rem; margin-bottom: 0.5rem; color: var(--accent);">
+            <div class="task-card task-card--full" style="display: flex; flex-direction: column; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.2); border-radius: 12px; overflow: hidden; background: var(--bg-secondary);">
+                <div class="task-header" style="background: rgba(99, 102, 241, 0.05); padding: 1.5rem 2rem; border-bottom: 1px solid var(--border-color);">
+                    <div class="task-number" style="font-size: 1.8rem; font-weight: 800; margin-bottom: 0.5rem; color: var(--accent-primary); letter-spacing: 1px;">
                         BÁO CÁO TUẦN ${task.week}
                     </div>
-                    <h3 class="task-title" style="font-size: 1.25rem;">${task.title}</h3>
-                    <p class="task-desc" style="font-size: 0.9rem; color: var(--muted); margin-top: 0.5rem; margin-bottom: 1rem;">
-                        <i data-lucide="arrow-right" style="width: 16px; height: 16px; display: inline-block; vertical-align: middle; margin-right: 0.5rem; color: var(--accent);"></i>
-                        ${task.summary}
+                    <h3 class="task-title" style="font-size: 1.4rem; color: var(--text-primary); font-weight: 700;">${task.title}</h3>
+                    <p class="task-desc" style="font-size: 0.95rem; color: var(--text-secondary); margin-top: 0.8rem; display: flex; align-items: flex-start; gap: 0.8rem; line-height: 1.5;">
+                        <i data-lucide="arrow-right" style="width: 20px; height: 20px; flex-shrink: 0; color: var(--accent-primary); margin-top: 2px;"></i>
+                        <span>${task.summary}</span>
                     </p>
                 </div>
-                <div class="task-body t6-meta" style="background: var(--paper); padding: 1.5rem; border-radius: 4px; border: 1px solid var(--border);">
+                <div class="task-body t6-meta" style="padding: 0 2rem 2rem;">
                     ${task.content}
                 </div>
             </div>
