@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#010103" />
+    <meta name="description" content="Digital Portfolio học tập cá nhân của Nguyễn Thành Vinh - K70-AI1 - Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo." />
+    <meta name="author" content="Nguyễn Thành Vinh" />
+    <meta name="keywords" content="digital portfolio, portfolio, sinh viên, AI, trí tuệ nhân tạo, Nguyễn Thành Vinh, K70-AI1" />
+
+    <title>Nguyễn Thành Vinh | Portfolio</title>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="bg-grid" id="bgGrid"></div>
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+    <div class="bg-glow bg-glow-3"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar" id="navbar">
+        <div class="nav-container">
+            <a href="#hero" class="nav-logo">
+                <span class="logo-bracket">&lt;</span>NTV<span class="logo-bracket">/&gt;</span>
+            </a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#hero" class="nav-link active" data-section="hero">Trang chủ</a></li>
+                <li><a href="#about" class="nav-link" data-section="about">Giới thiệu</a></li>
+                <li><a href="#skills" class="nav-link" data-section="skills">Kỹ năng</a></li>
+                <li><a href="#projects" class="nav-link" data-section="projects">Dự án</a></li>
+                <li><a href="#contact" class="nav-link" data-section="contact">Liên hệ</a></li>
+            </ul>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero" id="hero">
+        <div class="hero-container">
+            <div class="hero-content">
+                <div class="hero-badge animate-fade-up">
+                    <span class="badge-dot"></span>
+                    Sinh viên K70-AI1
+                </div>
+                <h1 class="hero-title animate-fade-up" style="animation-delay: 0.1s;">
+                    Xin chào, tôi là<br>
+                    <span class="hero-name">Nguyễn Thành Vinh</span>
+                </h1>
+                <p class="hero-subtitle animate-fade-up" style="animation-delay: 0.2s;">
+                    Sinh viên ngành <span class="text-gradient">Trí tuệ nhân tạo</span> tại Trường Đại học Công nghệ - ĐHQGHN. 
+                    Đam mê khám phá và ứng dụng AI vào thực tiễn cuộc sống.
+                </p>
+                <div class="hero-actions animate-fade-up" style="animation-delay: 0.3s;">
+                    <a href="#projects" class="btn btn-primary">
+                        <i data-lucide="folder-open" class="btn-icon"></i>
+                        Xem dự án
+                    </a>
+                    <a href="#contact" class="btn btn-outline">
+                        <i data-lucide="mail" class="btn-icon"></i>
+                        Liên hệ tôi
+                    </a>
+                </div>
+                <div class="hero-stats animate-fade-up" style="animation-delay: 0.4s;">
+                    <div class="stat-item">
+                        <span class="stat-number" data-count="25023073">25023073</span>
+                        <span class="stat-label">Mã sinh viên</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-number">K70</span>
+                        <span class="stat-label">Khóa</span>
+                    </div>
+                    <div class="stat-divider"></div>
+                    <div class="stat-item">
+                        <span class="stat-number">AI-1</span>
+                        <span class="stat-label">Lớp</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hero-image animate-fade-up" style="animation-delay: 0.3s;">
+                <div class="hero-image-wrapper">
+                    <div class="hero-image-glow"></div>
+                    <div class="hero-image-border"></div>
+                    <img src="assets/profile.jpg" alt="Nguyễn Thành Vinh" class="hero-photo" />
+                </div>
+                <div class="hero-floating-card card-1">
+                    <i data-lucide="brain" class="floating-icon"></i>
+                    <span>AI & ML</span>
+                </div>
+                <div class="hero-floating-card card-2">
+                    <i data-lucide="code-2" class="floating-icon"></i>
+                    <span>Python</span>
+                </div>
+                <div class="hero-floating-card card-3">
+                    <i data-lucide="graduation-cap" class="floating-icon"></i>
+                    <span>UET-VNU</span>
+                </div>
+            </div>
+        </div>
+        <div class="scroll-indicator animate-fade-up" style="animation-delay: 0.6s;">
+            <div class="scroll-mouse">
+                <div class="scroll-wheel"></div>
+            </div>
+            <span>Cuộn xuống</span>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Giới thiệu</span>
+                <h2 class="section-title">Về bản thân tôi</h2>
+                <p class="section-desc">Tìm hiểu thêm về con đường học tập và đam mê của tôi</p>
+            </div>
+            <div class="about-grid">
+                <div class="about-content">
+                    <div class="about-card glass-card">
+                        <h3 class="about-card-title">
+                            <i data-lucide="user" class="about-icon"></i>
+                            Thông tin cá nhân
+                        </h3>
+                        <ul class="about-info-list">
+                            <li>
+                                <span class="info-label">Họ và tên</span>
+                                <span class="info-value">Nguyễn Thành Vinh</span>
+                            </li>
+                            <li>
+                                <span class="info-label">Mã sinh viên</span>
+                                <span class="info-value">25023073</span>
+                            </li>
+                            <li>
+                                <span class="info-label">Lớp</span>
+                                <span class="info-value">K70-AI1</span>
+                            </li>
+                            <li>
+                                <span class="info-label">Trường</span>
+                                <span class="info-value">ĐH Công nghệ - ĐHQGHN</span>
+                            </li>
+                            <li>
+                                <span class="info-label">Email</span>
+                                <span class="info-value">
+                                    <a href="mailto:vinhthuy0710@gmail.com">vinhthuy0710@gmail.com</a>
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="about-content">
+                    <div class="about-card glass-card">
+                        <h3 class="about-card-title">
+                            <i data-lucide="target" class="about-icon"></i>
+                            Mục tiêu & Đam mê
+                        </h3>
+                        <p class="about-text">
+                            Tôi là sinh viên năm nhất ngành Trí tuệ nhân tạo tại Trường Đại học Công nghệ, 
+                            Đại học Quốc gia Hà Nội. Tôi đam mê nghiên cứu và phát triển các ứng dụng AI, 
+                            đặc biệt trong lĩnh vực Machine Learning và Deep Learning.
+                        </p>
+                        <p class="about-text">
+                            Mục tiêu của tôi là trở thành một kỹ sư AI giỏi, có khả năng áp dụng công nghệ 
+                            để giải quyết các bài toán thực tiễn, đóng góp cho sự phát triển của cộng đồng 
+                            và xã hội.
+                        </p>
+                    </div>
+                    <div class="about-card glass-card" style="margin-top: 1.5rem;">
+                        <h3 class="about-card-title">
+                            <i data-lucide="book-open" class="about-icon"></i>
+                            Học vấn
+                        </h3>
+                        <div class="education-item">
+                            <div class="edu-timeline">
+                                <div class="edu-dot"></div>
+                                <div class="edu-line"></div>
+                            </div>
+                            <div class="edu-content">
+                                <span class="edu-year">2025 - Hiện tại</span>
+                                <h4 class="edu-title">Trường Đại học Công nghệ - ĐHQGHN</h4>
+                                <p class="edu-desc">Ngành Trí tuệ nhân tạo (AI) - Khóa K70</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="section section-alt" id="skills">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Kỹ năng</span>
+                <h2 class="section-title">Công nghệ & Kỹ năng</h2>
+                <p class="section-desc">Các công nghệ và kỹ năng mà tôi đang học tập và phát triển</p>
+            </div>
+            <div class="skills-grid">
+                <div class="skill-category glass-card">
+                    <div class="skill-cat-header">
+                        <div class="skill-cat-icon" style="--accent: #3b82f6;">
+                            <i data-lucide="code-2"></i>
+                        </div>
+                        <h3 class="skill-cat-title">Lập trình</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Python</span>
+                        <span class="skill-tag">C/C++</span>
+                        <span class="skill-tag">JavaScript</span>
+                        <span class="skill-tag">HTML/CSS</span>
+                    </div>
+                </div>
+                <div class="skill-category glass-card">
+                    <div class="skill-cat-header">
+                        <div class="skill-cat-icon" style="--accent: #8b5cf6;">
+                            <i data-lucide="brain"></i>
+                        </div>
+                        <h3 class="skill-cat-title">AI & Machine Learning</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">TensorFlow</span>
+                        <span class="skill-tag">PyTorch</span>
+                        <span class="skill-tag">Scikit-learn</span>
+                        <span class="skill-tag">NumPy</span>
+                        <span class="skill-tag">Pandas</span>
+                    </div>
+                </div>
+                <div class="skill-category glass-card">
+                    <div class="skill-cat-header">
+                        <div class="skill-cat-icon" style="--accent: #06b6d4;">
+                            <i data-lucide="database"></i>
+                        </div>
+                        <h3 class="skill-cat-title">Công cụ & Nền tảng</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Git & GitHub</span>
+                        <span class="skill-tag">VS Code</span>
+                        <span class="skill-tag">Jupyter Notebook</span>
+                        <span class="skill-tag">Google Colab</span>
+                        <span class="skill-tag">Linux</span>
+                    </div>
+                </div>
+                <div class="skill-category glass-card">
+                    <div class="skill-cat-header">
+                        <div class="skill-cat-icon" style="--accent: #f59e0b;">
+                            <i data-lucide="lightbulb"></i>
+                        </div>
+                        <h3 class="skill-cat-title">Kỹ năng mềm</h3>
+                    </div>
+                    <div class="skill-tags">
+                        <span class="skill-tag">Tư duy phản biện</span>
+                        <span class="skill-tag">Làm việc nhóm</span>
+                        <span class="skill-tag">Thuyết trình</span>
+                        <span class="skill-tag">Quản lý thời gian</span>
+                        <span class="skill-tag">Tự học</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section class="section" id="projects">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Dự án</span>
+                <h2 class="section-title">Các dự án tiêu biểu</h2>
+                <p class="section-desc">Một số dự án tôi đã và đang thực hiện trong quá trình học tập</p>
+            </div>
+            <div class="projects-grid">
+                <div class="project-card glass-card">
+                    <div class="project-image">
+                        <div class="project-placeholder">
+                            <i data-lucide="bot" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">AI / ML</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Chatbot AI hỗ trợ học tập</h3>
+                        <p class="project-desc">
+                            Xây dựng chatbot sử dụng Large Language Model để hỗ trợ sinh viên trong việc 
+                            giải đáp thắc mắc về các môn học.
+                        </p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>LangChain</span>
+                            <span>OpenAI API</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link">
+                                <i data-lucide="github"></i>
+                                Source
+                            </a>
+                            <a href="#" class="project-link">
+                                <i data-lucide="external-link"></i>
+                                Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card glass-card">
+                    <div class="project-image">
+                        <div class="project-placeholder" style="--ph-accent: #8b5cf6;">
+                            <i data-lucide="scan-eye" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Computer Vision</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Nhận diện khuôn mặt</h3>
+                        <p class="project-desc">
+                            Ứng dụng nhận diện khuôn mặt real-time sử dụng OpenCV và Deep Learning 
+                            phục vụ điểm danh tự động.
+                        </p>
+                        <div class="project-tech">
+                            <span>Python</span>
+                            <span>OpenCV</span>
+                            <span>TensorFlow</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link">
+                                <i data-lucide="github"></i>
+                                Source
+                            </a>
+                            <a href="#" class="project-link">
+                                <i data-lucide="external-link"></i>
+                                Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card glass-card">
+                    <div class="project-image">
+                        <div class="project-placeholder" style="--ph-accent: #06b6d4;">
+                            <i data-lucide="globe" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Web Development</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Portfolio cá nhân</h3>
+                        <p class="project-desc">
+                            Website portfolio cá nhân được xây dựng bằng HTML, CSS và JavaScript 
+                            với thiết kế hiện đại, responsive và tối ưu SEO.
+                        </p>
+                        <div class="project-tech">
+                            <span>HTML</span>
+                            <span>CSS</span>
+                            <span>JavaScript</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link">
+                                <i data-lucide="github"></i>
+                                Source
+                            </a>
+                            <a href="#" class="project-link">
+                                <i data-lucide="external-link"></i>
+                                Demo
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section section-alt" id="contact">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Liên hệ</span>
+                <h2 class="section-title">Kết nối với tôi</h2>
+                <p class="section-desc">Hãy liên hệ nếu bạn muốn trao đổi hoặc hợp tác</p>
+            </div>
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <div class="contact-card glass-card">
+                        <div class="contact-card-icon" style="--accent: #3b82f6;">
+                            <i data-lucide="mail"></i>
+                        </div>
+                        <div class="contact-card-content">
+                            <h3>Email</h3>
+                            <a href="mailto:vinhthuy0710@gmail.com">vinhthuy0710@gmail.com</a>
+                        </div>
+                    </div>
+                    <div class="contact-card glass-card">
+                        <div class="contact-card-icon" style="--accent: #8b5cf6;">
+                            <i data-lucide="github"></i>
+                        </div>
+                        <div class="contact-card-content">
+                            <h3>GitHub</h3>
+                            <a href="https://github.com/" target="_blank" rel="noopener">github.com/vinhthuy0710</a>
+                        </div>
+                    </div>
+                    <div class="contact-card glass-card">
+                        <div class="contact-card-icon" style="--accent: #06b6d4;">
+                            <i data-lucide="map-pin"></i>
+                        </div>
+                        <div class="contact-card-content">
+                            <h3>Địa chỉ</h3>
+                            <p>Trường ĐH Công nghệ, 144 Xuân Thủy, Cầu Giấy, Hà Nội</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contact-form-wrapper">
+                    <form class="contact-form glass-card" id="contactForm">
+                        <h3 class="form-title">Gửi tin nhắn</h3>
+                        <div class="form-group">
+                            <label for="name">Họ và tên</label>
+                            <input type="text" id="name" name="name" placeholder="Nhập họ và tên..." required />
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="Nhập email..." required />
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Tin nhắn</label>
+                            <textarea id="message" name="message" rows="4" placeholder="Nhập tin nhắn..." required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-full">
+                            <i data-lucide="send" class="btn-icon"></i>
+                            Gửi tin nhắn
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <span class="logo-bracket">&lt;</span>NTV<span class="logo-bracket">/&gt;</span>
+                </div>
+                <p class="footer-text">
+                    Designed & Built by <strong>Nguyễn Thành Vinh</strong> | K70-AI1 | MSV: 25023073
+                </p>
+                <div class="footer-links">
+                    <a href="mailto:vinhthuy0710@gmail.com" aria-label="Email">
+                        <i data-lucide="mail"></i>
+                    </a>
+                    <a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub">
+                        <i data-lucide="github"></i>
+                    </a>
+                </div>
+                <p class="footer-copy">&copy; 2025 Nguyễn Thành Vinh. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
