@@ -1228,6 +1228,49 @@ ul, ol {
     color: var(--text-secondary);
 }
 
+/* ===== Project Summary Dropdown ===== */
+.project-summary-dropdown {
+    margin-bottom: 1rem;
+    flex: 1;
+}
+
+.project-summary-dropdown summary {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--accent-primary);
+    cursor: pointer;
+    list-style: none;
+    transition: color var(--transition-fast);
+    padding: 0.2rem 0;
+}
+
+.project-summary-dropdown summary::-webkit-details-marker {
+    display: none;
+}
+
+.summary-arrow {
+    width: 16px;
+    height: 16px;
+    transition: transform var(--transition-base);
+}
+
+.project-summary-dropdown[open] .summary-arrow {
+    transform: rotate(90deg);
+}
+
+.project-summary-text {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-top: 0.5rem;
+    padding-left: 1.5rem;
+    border-left: 2px solid rgba(99, 102, 241, 0.2);
+    animation: fade-in 0.3s ease;
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 1024px) {
     .hero-container {
