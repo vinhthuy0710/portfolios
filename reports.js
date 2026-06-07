@@ -188,23 +188,23 @@ function renderReports() {
     let html = '<div class="task-grid" style="display: flex; flex-direction: column; gap: 2rem; width: 100%;">';
 
     reportData.forEach(task => {
-        html += \`
+        html += `
             <div class="task-card task-card--full" style="display: flex; flex-direction: column; width: 100%;">
                 <div class="task-header" style="border-bottom: 1px solid var(--border); padding-bottom: 1rem; margin-bottom: 1rem;">
                     <div class="task-number" style="font-size: 2rem; margin-bottom: 0.5rem; color: var(--accent);">
-                        BÁO CÁO TUẦN \${task.week}
+                        BÁO CÁO TUẦN ${task.week}
                     </div>
-                    <h3 class="task-title" style="font-size: 1.25rem;">\${task.title}</h3>
+                    <h3 class="task-title" style="font-size: 1.25rem;">${task.title}</h3>
                     <p class="task-desc" style="font-size: 0.9rem; color: var(--muted); margin-top: 0.5rem; margin-bottom: 1rem;">
                         <i data-lucide="arrow-right" style="width: 16px; height: 16px; display: inline-block; vertical-align: middle; margin-right: 0.5rem; color: var(--accent);"></i>
-                        \${task.summary}
+                        ${task.summary}
                     </p>
                 </div>
                 <div class="task-body t6-meta" style="background: var(--paper); padding: 1.5rem; border-radius: 4px; border: 1px solid var(--border);">
-                    \${task.content}
+                    ${task.content}
                 </div>
             </div>
-        \`;
+        `;
     });
 
     html += '</div>';
