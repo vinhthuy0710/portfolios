@@ -1,9 +1,13 @@
-function getImages(path, count, ext = 'png') {
-    let imgs = '';
+function getImages(path, count, ext = 'png', captionPrefix = 'Minh chứng') {
+    let html = '';
     for (let i = 1; i <= count; i++) {
-        imgs += `<img src="${path}/image${i}.${ext}" alt="Minh chứng" style="width: 100%; max-width: 400px; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onerror="this.style.display='none'">`;
+        html += `
+        <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 100%; max-width: 400px;">
+            <img src="${path}/image${i}.${ext}" alt="${captionPrefix} ${i}" style="width: 100%; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" onerror="this.parentElement.style.display='none'">
+            <figcaption style="font-size: 0.9rem; color: var(--text-secondary); font-style: italic; text-align: center; padding: 0.4rem 1rem; background: rgba(99, 102, 241, 0.05); border-radius: 50px; border: 1px solid rgba(99, 102, 241, 0.1);">${captionPrefix} ${i}</figcaption>
+        </figure>`;
     }
-    return imgs;
+    return html;
 }
 
 const reportData = [
@@ -29,7 +33,7 @@ const reportData = [
                     <li>12. Khôi phục từ Thùng rác: Tìm biểu tượng Recycle Bin trên màn hình nền, nhấp đúp để mở. Tìm tệp GhiChuQuanTrong.txt đã xóa, nhấp chuột phải vào nó và chọn Restore.</li>
                 </ul>
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tuan1', 20)}
+                    ${getImages('assets/reports/tuan1', 20, 'png', 'Bước')}
                 </div>
             </div>
         `
@@ -100,7 +104,7 @@ const reportData = [
                 <p class="t6-p"><strong>Prompt Nâng cao</strong> đem lại độ chính xác rất cao, cấu trúc chuyên nghiệp và tính ứng dụng tốt (dùng để giảng dạy hoặc nghiên cứu sâu). Thành công nhờ áp dụng: Context (vai trò chuyên gia), Constraint (yêu cầu nội dung cụ thể), Structure (định dạng đầu ra rõ ràng).</p>
                 
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tuan 3', 3)}
+                    ${getImages('assets/reports/tuan 3', 3, 'png', 'Hình')}
                 </div>
             </div>
         `
@@ -123,7 +127,7 @@ const reportData = [
                 <p class="t6-p"><strong>Notion:</strong> Rất hiệu quả trong việc theo dõi tiến độ từng người.<br><strong>GG Drive & Docs:</strong> Không gian lưu trữ và soạn thảo tuyệt vời, dễ dàng đồng bộ.<br><strong>GG Meet & Zalo:</strong> Đảm bảo thông tin xuyên suốt và họp trực tuyến ổn định.</p>
                 
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tmpowajq1_bai-tap-bao-cao-tuan-4', 17)}
+                    ${getImages('assets/reports/tmpowajq1_bai-tap-bao-cao-tuan-4', 17, 'png', 'Hình')}
                 </div>
             </div>
         `
@@ -151,7 +155,7 @@ const reportData = [
                 <p class="t6-p">Tỷ lệ đóng góp: <strong>AI ~47%, Cá nhân ~53%</strong>. AI là trợ lý mạnh mẽ trong khi con người đưa ra quyết định sáng tạo cuối cùng (bố cục bằng Canva, chỉnh sửa màu sắc, v.v.).</p>
                 
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tuan 5', 8)}
+                    ${getImages('assets/reports/tuan 5', 8, 'png', 'Hình')}
                 </div>
             </div>
         `
@@ -173,7 +177,7 @@ const reportData = [
                     <div class="t6-prompt-body">Hãy giúp tôi lập dàn ý cho bài thuyết trình 5 phút về tác động của AI trong giáo dục đại học.</div>
                 </div>
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tuan 6', 1)}
+                    ${getImages('assets/reports/tuan 6', 1, 'png', 'Hình')}
                 </div>
             </div>
         `
@@ -196,8 +200,11 @@ const reportData = [
                 <p class="t6-p">Elicit và Consensus tiết kiệm thời gian lớn khi phải đọc tổng quan các bài báo (Literature Review). Tuy nhiên, vẫn cần đọc lại bài báo gốc để kiểm tra tính chính xác của dữ liệu AI trích xuất (đặc biệt là các số liệu và biểu đồ).</p>
                 
                 <div class="t6-images" style="display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1.5rem; justify-content: center;">
-                    ${getImages('assets/reports/tuan 7', 1)}
-                    <img src="assets/reports/tuan 7/image2.svg" alt="Minh chứng" style="width: 100%; max-width: 400px; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onerror="this.style.display='none'">
+                    ${getImages('assets/reports/tuan 7', 1, 'png', 'Hình')}
+                    <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; gap: 0.8rem; width: 100%; max-width: 400px;">
+                        <img src="assets/reports/tuan 7/image2.svg" alt="Hình 2" style="width: 100%; object-fit: contain; border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" onerror="this.parentElement.style.display='none'">
+                        <figcaption style="font-size: 0.9rem; color: var(--text-secondary); font-style: italic; text-align: center; padding: 0.4rem 1rem; background: rgba(99, 102, 241, 0.05); border-radius: 50px; border: 1px solid rgba(99, 102, 241, 0.1);">Hình 2</figcaption>
+                    </figure>
                 </div>
             </div>
         `
