@@ -1194,6 +1194,40 @@ ul, ol {
     color: var(--text-muted);
 }
 
+/* ===== Summary Section ===== */
+.summary-wrapper {
+    padding: 2.5rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.summary-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.summary-block h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    font-size: 1.2rem;
+    color: var(--text-primary);
+    margin-bottom: 0.8rem;
+}
+
+.summary-icon {
+    width: 24px;
+    height: 24px;
+    color: var(--accent-primary);
+}
+
+.summary-block p {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--text-secondary);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 1024px) {
     .hero-container {

@@ -37,9 +37,9 @@
             <ul class="nav-links" id="navLinks">
                 <li><a href="#hero" class="nav-link active" data-section="hero">Trang chủ</a></li>
                 <li><a href="#about" class="nav-link" data-section="about">Giới thiệu</a></li>
-                <li><a href="#skills" class="nav-link" data-section="skills">Kỹ năng</a></li>
-                <li><a href="#projects" class="nav-link" data-section="projects">Dự án</a></li>
+                <li><a href="#exercises" class="nav-link" data-section="exercises">Bài tập</a></li>
                 <li><a href="#contact" class="nav-link" data-section="contact">Liên hệ</a></li>
+                <li><a href="#summary" class="nav-link" data-section="summary">Tổng kết</a></li>
             </ul>
             <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
                 <span></span>
@@ -66,9 +66,9 @@
                     Đam mê khám phá và ứng dụng AI vào thực tiễn cuộc sống.
                 </p>
                 <div class="hero-actions animate-fade-up" style="animation-delay: 0.3s;">
-                    <a href="#projects" class="btn btn-primary">
+                    <a href="#exercises" class="btn btn-primary">
                         <i data-lucide="folder-open" class="btn-icon"></i>
-                        Xem dự án
+                        Xem bài tập
                     </a>
                     <a href="#contact" class="btn btn-outline">
                         <i data-lucide="mail" class="btn-icon"></i>
@@ -200,181 +200,178 @@
         </div>
     </section>
 
-    <!-- Skills Section -->
-    <section class="section section-alt" id="skills">
+    <!-- Exercises Section -->
+    <section class="section section-alt" id="exercises">
         <div class="container">
             <div class="section-header">
-                <span class="section-tag">Kỹ năng</span>
-                <h2 class="section-title">Công nghệ & Kỹ năng</h2>
-                <p class="section-desc">Các công nghệ và kỹ năng mà tôi đang học tập và phát triển</p>
-            </div>
-            <div class="skills-grid">
-                <div class="skill-category glass-card">
-                    <div class="skill-cat-header">
-                        <div class="skill-cat-icon" style="--accent: #3b82f6;">
-                            <i data-lucide="code-2"></i>
-                        </div>
-                        <h3 class="skill-cat-title">Lập trình</h3>
-                    </div>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Python</span>
-                        <span class="skill-tag">C/C++</span>
-                        <span class="skill-tag">JavaScript</span>
-                        <span class="skill-tag">HTML/CSS</span>
-                    </div>
-                </div>
-                <div class="skill-category glass-card">
-                    <div class="skill-cat-header">
-                        <div class="skill-cat-icon" style="--accent: #8b5cf6;">
-                            <i data-lucide="brain"></i>
-                        </div>
-                        <h3 class="skill-cat-title">AI & Machine Learning</h3>
-                    </div>
-                    <div class="skill-tags">
-                        <span class="skill-tag">TensorFlow</span>
-                        <span class="skill-tag">PyTorch</span>
-                        <span class="skill-tag">Scikit-learn</span>
-                        <span class="skill-tag">NumPy</span>
-                        <span class="skill-tag">Pandas</span>
-                    </div>
-                </div>
-                <div class="skill-category glass-card">
-                    <div class="skill-cat-header">
-                        <div class="skill-cat-icon" style="--accent: #06b6d4;">
-                            <i data-lucide="database"></i>
-                        </div>
-                        <h3 class="skill-cat-title">Công cụ & Nền tảng</h3>
-                    </div>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Git & GitHub</span>
-                        <span class="skill-tag">VS Code</span>
-                        <span class="skill-tag">Jupyter Notebook</span>
-                        <span class="skill-tag">Google Colab</span>
-                        <span class="skill-tag">Linux</span>
-                    </div>
-                </div>
-                <div class="skill-category glass-card">
-                    <div class="skill-cat-header">
-                        <div class="skill-cat-icon" style="--accent: #f59e0b;">
-                            <i data-lucide="lightbulb"></i>
-                        </div>
-                        <h3 class="skill-cat-title">Kỹ năng mềm</h3>
-                    </div>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Tư duy phản biện</span>
-                        <span class="skill-tag">Làm việc nhóm</span>
-                        <span class="skill-tag">Thuyết trình</span>
-                        <span class="skill-tag">Quản lý thời gian</span>
-                        <span class="skill-tag">Tự học</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Projects Section -->
-    <section class="section" id="projects">
-        <div class="container">
-            <div class="section-header">
-                <span class="section-tag">Dự án</span>
-                <h2 class="section-title">Các dự án tiêu biểu</h2>
-                <p class="section-desc">Một số dự án tôi đã và đang thực hiện trong quá trình học tập</p>
+                <span class="section-tag">Bài tập</span>
+                <h2 class="section-title">Danh sách bài tập</h2>
+                <p class="section-desc">Các bài báo cáo và bài tập thực hành trong học phần Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo.</p>
             </div>
             <div class="projects-grid">
+                <!-- Tuần 1 -->
                 <div class="project-card glass-card">
-                    <div class="project-image">
-                        <div class="project-placeholder">
-                            <i data-lucide="bot" class="project-placeholder-icon"></i>
+                    <div class="project-image" style="height: 140px;">
+                        <div class="project-placeholder" style="--ph-accent: #3b82f6;">
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
                         </div>
                         <div class="project-overlay">
-                            <span class="project-tag">AI / ML</span>
+                            <span class="project-tag">Tuần 1</span>
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Chatbot AI hỗ trợ học tập</h3>
+                        <h3 class="project-title">Báo Cáo Tuần 1</h3>
                         <p class="project-desc">
-                            Xây dựng chatbot sử dụng Large Language Model để hỗ trợ sinh viên trong việc 
-                            giải đáp thắc mắc về các môn học.
+                            Báo cáo các nội dung tìm hiểu và thực hành trong tuần đầu tiên của môn học.
                         </p>
-                        <div class="project-tech">
-                            <span>Python</span>
-                            <span>LangChain</span>
-                            <span>OpenAI API</span>
-                        </div>
-                        <div class="project-links">
-                            <a href="#" class="project-link">
-                                <i data-lucide="github"></i>
-                                Source
-                            </a>
-                            <a href="#" class="project-link">
-                                <i data-lucide="external-link"></i>
-                                Demo
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/Bao Cao Tuan 1.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
                             </a>
                         </div>
                     </div>
                 </div>
 
+                <!-- Tuần 2 -->
                 <div class="project-card glass-card">
-                    <div class="project-image">
+                    <div class="project-image" style="height: 140px;">
                         <div class="project-placeholder" style="--ph-accent: #8b5cf6;">
-                            <i data-lucide="scan-eye" class="project-placeholder-icon"></i>
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
                         </div>
                         <div class="project-overlay">
-                            <span class="project-tag">Computer Vision</span>
+                            <span class="project-tag">Tuần 2</span>
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Nhận diện khuôn mặt</h3>
+                        <h3 class="project-title">BÀI 2</h3>
                         <p class="project-desc">
-                            Ứng dụng nhận diện khuôn mặt real-time sử dụng OpenCV và Deep Learning 
-                            phục vụ điểm danh tự động.
+                            Bài tập thực hành của tuần thứ 2, áp dụng các kiến thức đã được học.
                         </p>
-                        <div class="project-tech">
-                            <span>Python</span>
-                            <span>OpenCV</span>
-                            <span>TensorFlow</span>
-                        </div>
-                        <div class="project-links">
-                            <a href="#" class="project-link">
-                                <i data-lucide="github"></i>
-                                Source
-                            </a>
-                            <a href="#" class="project-link">
-                                <i data-lucide="external-link"></i>
-                                Demo
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/BÀI 2.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
                             </a>
                         </div>
                     </div>
                 </div>
 
+                <!-- Tuần 3 -->
                 <div class="project-card glass-card">
-                    <div class="project-image">
+                    <div class="project-image" style="height: 140px;">
                         <div class="project-placeholder" style="--ph-accent: #06b6d4;">
-                            <i data-lucide="globe" class="project-placeholder-icon"></i>
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
                         </div>
                         <div class="project-overlay">
-                            <span class="project-tag">Web Development</span>
+                            <span class="project-tag">Tuần 3</span>
                         </div>
                     </div>
                     <div class="project-content">
-                        <h3 class="project-title">Portfolio cá nhân</h3>
+                        <h3 class="project-title">Bài tập Tuần 3</h3>
                         <p class="project-desc">
-                            Website portfolio cá nhân được xây dựng bằng HTML, CSS và JavaScript 
-                            với thiết kế hiện đại, responsive và tối ưu SEO.
+                            Nội dung bài tập và báo cáo chi tiết cho tuần học thứ 3.
                         </p>
-                        <div class="project-tech">
-                            <span>HTML</span>
-                            <span>CSS</span>
-                            <span>JavaScript</span>
-                        </div>
-                        <div class="project-links">
-                            <a href="#" class="project-link">
-                                <i data-lucide="github"></i>
-                                Source
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/tuan 3.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
                             </a>
-                            <a href="#" class="project-link">
-                                <i data-lucide="external-link"></i>
-                                Demo
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tuần 4 -->
+                <div class="project-card glass-card">
+                    <div class="project-image" style="height: 140px;">
+                        <div class="project-placeholder" style="--ph-accent: #10b981;">
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Tuần 4</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Bài tập Báo cáo Tuần 4</h3>
+                        <p class="project-desc">
+                            Báo cáo tổng hợp và bài tập đánh giá quá trình học tập tuần 4.
+                        </p>
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/tmpowajq1_bai-tap-bao-cao-tuan-4.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tuần 5 -->
+                <div class="project-card glass-card">
+                    <div class="project-image" style="height: 140px;">
+                        <div class="project-placeholder" style="--ph-accent: #f59e0b;">
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Tuần 5</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Bài tập Tuần 5</h3>
+                        <p class="project-desc">
+                            Kết quả bài tập thực hành được giao trong tuần 5 của môn học.
+                        </p>
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/tuan 5.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tuần 6 -->
+                <div class="project-card glass-card">
+                    <div class="project-image" style="height: 140px;">
+                        <div class="project-placeholder" style="--ph-accent: #ec4899;">
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Tuần 6</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Bài tập Tuần 6</h3>
+                        <p class="project-desc">
+                            Báo cáo các nhiệm vụ học tập và thực hành trong khuôn khổ tuần 6.
+                        </p>
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/tuan 6.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tuần 7 -->
+                <div class="project-card glass-card">
+                    <div class="project-image" style="height: 140px;">
+                        <div class="project-placeholder" style="--ph-accent: #6366f1;">
+                            <i data-lucide="file-text" class="project-placeholder-icon"></i>
+                        </div>
+                        <div class="project-overlay">
+                            <span class="project-tag">Tuần 7</span>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Bài tập Tuần 7</h3>
+                        <p class="project-desc">
+                            Bài tập và báo cáo tuần 7, chuẩn bị cho các bước tổng kết cuối môn.
+                        </p>
+                        <div class="project-links" style="margin-top: auto;">
+                            <a href="reports/tuan 7.docx" class="project-link" target="_blank" download>
+                                <i data-lucide="download"></i>
+                                Tải xuống (.docx)
                             </a>
                         </div>
                     </div>
@@ -384,7 +381,7 @@
     </section>
 
     <!-- Contact Section -->
-    <section class="section section-alt" id="contact">
+    <section class="section" id="contact">
         <div class="container">
             <div class="section-header">
                 <span class="section-tag">Liên hệ</span>
@@ -408,7 +405,7 @@
                         </div>
                         <div class="contact-card-content">
                             <h3>GitHub</h3>
-                            <a href="https://github.com/" target="_blank" rel="noopener">github.com/vinhthuy0710</a>
+                            <a href="https://github.com/vinhthuy0710" target="_blank" rel="noopener">github.com/vinhthuy0710</a>
                         </div>
                     </div>
                     <div class="contact-card glass-card">
@@ -446,6 +443,42 @@
         </div>
     </section>
 
+    <!-- Summary Section -->
+    <section class="section section-alt" id="summary">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Tổng kết</span>
+                <h2 class="section-title">Trải nghiệm & Cảm nhận</h2>
+                <p class="section-desc">Ghi lại chặng đường và những bài học rút ra từ học phần Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo.</p>
+            </div>
+            
+            <div class="summary-wrapper glass-card">
+                <div class="summary-content">
+                    <div class="summary-block">
+                        <h3><i data-lucide="graduation-cap" class="summary-icon"></i> Hành trình học tập</h3>
+                        <p>
+                            Tham gia học phần "Nhập môn Công nghệ số và Ứng dụng Trí tuệ nhân tạo" là một trải nghiệm thực sự quý giá đối với bản thân tôi. Là một sinh viên năm nhất ngành AI, khóa học này đã mở ra những góc nhìn đầu tiên, tổng quan và nền tảng nhất về bức tranh công nghệ hiện đại. Từ những khái niệm cơ bản về chuyển đổi số cho đến các ứng dụng thực tiễn của trí tuệ nhân tạo, mỗi bài giảng đều mang đến những kiến thức mới mẻ và thú vị.
+                        </p>
+                    </div>
+
+                    <div class="summary-block">
+                        <h3><i data-lucide="lightbulb" class="summary-icon"></i> Bài học rút ra</h3>
+                        <p>
+                            Quá trình hoàn thành 7 bài tập xuyên suốt học phần đã rèn luyện cho tôi không chỉ kiến thức chuyên môn mà còn cả kỹ năng tìm kiếm, tổng hợp tài liệu và tư duy giải quyết vấn đề. Đặc biệt, việc tự tay xây dựng Portfolio này đã giúp tôi hệ thống hóa lại toàn bộ quá trình học tập của mình, đồng thời làm quen với việc thiết kế và triển khai một sản phẩm công nghệ hoàn chỉnh.
+                        </p>
+                    </div>
+
+                    <div class="summary-block">
+                        <h3><i data-lucide="rocket" class="summary-icon"></i> Định hướng tương lai</h3>
+                        <p>
+                            Học phần này đã tiếp thêm cho tôi ngọn lửa đam mê và sự tự tin trên con đường đã chọn. Trong thời gian tới, tôi dự định sẽ tiếp tục đào sâu nghiên cứu các thuật toán Machine Learning và Deep Learning, đồng thời tích cực tham gia các dự án thực tế để trau dồi kỹ năng. Tôi tin rằng với sự chuẩn bị kỹ lưỡng từ hôm nay, bản thân sẽ sẵn sàng đáp ứng được những yêu cầu khắt khe của ngành công nghiệp AI trong tương lai.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- Footer -->
     <footer class="footer">
         <div class="container">
@@ -460,7 +493,7 @@
                     <a href="mailto:vinhthuy0710@gmail.com" aria-label="Email">
                         <i data-lucide="mail"></i>
                     </a>
-                    <a href="https://github.com/" target="_blank" rel="noopener" aria-label="GitHub">
+                    <a href="https://github.com/vinhthuy0710" target="_blank" rel="noopener" aria-label="GitHub">
                         <i data-lucide="github"></i>
                     </a>
                 </div>
