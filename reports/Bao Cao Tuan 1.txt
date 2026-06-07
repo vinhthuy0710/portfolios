@@ -1,0 +1,39 @@
+﻿1.    
+ 
+Má»Ÿ File Explorer: 
+Nháº¥n tá»• há»£p phÃ­m Windows + E hoáº·c nháº¥p vÃ o biá»ƒu tÆ°á»£ng thÆ° má»¥c mÃ u vÃ ng trÃªn thanh tÃ¡c vá»¥.
+2.    
+ 
+Truy cáº­p á»• Ä‘Ä©a/thÆ° má»¥c:
+ á»ž cá»™t bÃªn trÃ¡i, nháº¥p vÃ o This PC, sau Ä‘Ã³ nháº¥p Ä‘Ãºp vÃ o má»™t á»• Ä‘Ä©a khÃ´ng pháº£i á»• há»‡ thá»‘ng (vÃ­ dá»¥: á»• D: hoáº·c E:). Náº¿u chá»‰ cÃ³ á»• C:, hÃ£y vÃ o thÆ° má»¥c Documents.
+3.     Táº¡o thÆ° má»¥c má»›i:
+ Nháº¥p chuá»™t pháº£i vÃ o má»™t khoáº£ng trá»‘ng -&gt; chá»n New -&gt; Folder. Äáº·t tÃªn thÆ° má»¥c lÃ  ThucHanh_hotensinhvien (vÃ­ dá»¥: ThucHanh_NguyenVanA). Nháº¥n Enter.
+4.     VÃ o thÆ° má»¥c vá»«a táº¡o: 
+Nháº¥p Ä‘Ãºp vÃ o thÆ° má»¥c ThucHanh_NguyenVanA.
+5.   
+ 
+ Táº¡o tá»‡p tin vÄƒn báº£n:
+ Nháº¥p chuá»™t pháº£i vÃ o khoáº£ng trá»‘ng -&gt; New -&gt; Text Document. Äáº·t tÃªn lÃ  GhiChu.txt. Nháº¥n Enter.
+6.   
+  
+Äá»•i tÃªn tá»‡p tin: 
+Nháº¥p chuá»™t pháº£i vÃ o tá»‡p GhiChu.txt -&gt; chá»n Rename. Äá»•i tÃªn thÃ nh GhiChuQuanTrong.txt. Nháº¥n Enter.
+7.  
+   Táº¡o thÆ° má»¥c con: Trong thÆ° má»¥c ThucHanh_NguyenVanA, nháº¥p chuá»™t pháº£i -&gt; New -&gt; Folder. Äáº·t tÃªn lÃ  TaiLieu.
+8.
+     
+Sao chÃ©p tá»‡p tin (Copy &amp; Paste):
+Nháº¥p chuá»™t pháº£i vÃ o tá»‡p GhiChuQuanTrong.txt -&gt; chá»n Copy (hoáº·c chá»n tá»‡p rá»“i nháº¥n Ctrl + C).
+Nháº¥p Ä‘Ãºp vÃ o thÆ° má»¥c TaiLieu, nháº¥p chuá»™t pháº£i vÃ o khoáº£ng trá»‘ng bÃªn trong -&gt; chá»n Paste (hoáº·c nháº¥n Ctrl + V). BÃ¢y giá» báº¡n cÃ³ má»™t báº£n sao cá»§a tá»‡p trong thÆ° má»¥c TaiLieu.
+9.   
+  
+Di chuyá»ƒn tá»‡p tin (Cut &amp; Paste):
+Quay láº¡i thÆ° má»¥c ThucHanh_NguyenVanA. Táº¡o má»™t tá»‡p má»›i tÃªn lÃ  DiChuyen.txt.
+Nháº¥p chuá»™t pháº£i vÃ o tá»‡p DiChuyen.txt -&gt; chá»n Cut (hoáº·c chá»n tá»‡p rá»“i nháº¥n Ctrl + X).
+Nháº¥p Ä‘Ãºp vÃ o thÆ° má»¥c TaiLieu, nháº¥p chuá»™t pháº£i vÃ o khoáº£ng trá»‘ng -&gt; chá»n Paste (hoáº·c nháº¥n Ctrl + V). Tá»‡p gá»‘c Ä‘Ã£ biáº¿n máº¥t khá»i vá»‹ trÃ­ cÅ© vÃ  chá»‰ cÃ²n á»Ÿ vá»‹ trÃ­ má»›i.
+10. XÃ³a tá»‡p tin:
+ Trong thÆ° má»¥c TaiLieu, nháº¥p chuá»™t pháº£i vÃ o tá»‡p GhiChuQuanTrong.txt -&gt; chá»n Delete. Tá»‡p sáº½ Ä‘Æ°á»£c chuyá»ƒn vÃ o ThÃ¹ng rÃ¡c (Recycle Bin).
+11. XÃ³a vÄ©nh viá»…n:
+ Chá»n tá»‡p DiChuyen.txt, nháº¥n giá»¯ phÃ­m Shift vÃ  nháº¥n phÃ­m Delete. Má»™t cáº£nh bÃ¡o sáº½ hiá»‡n ra. Náº¿u Ä‘á»“ng Ã½, tá»‡p sáº½ bá»‹ xÃ³a vÄ©nh viá»…n mÃ  khÃ´ng qua ThÃ¹ng rÃ¡c.
+12. KhÃ´i phá»¥c tá»« ThÃ¹ng rÃ¡c (TÃ¹y chá»n):
+ TÃ¬m biá»ƒu tÆ°á»£ng Recycle Bin trÃªn mÃ n hÃ¬nh ná»n, nháº¥p Ä‘Ãºp Ä‘á»ƒ má»Ÿ. TÃ¬m tá»‡p GhiChuQuanTrong.txt Ä‘Ã£ xÃ³a, nháº¥p chuá»™t pháº£i vÃ o nÃ³ vÃ  chá»n Restore. Tá»‡p sáº½ quay trá»Ÿ láº¡i vá»‹ trÃ­ ban Ä‘áº§u.

@@ -1,0 +1,210 @@
+﻿BÃO CÃO BÃ€I Táº¬P
+Sá»¬ Dá»¤NG CÃ”NG Cá»¤ AI Táº O SINH
+Äá»‚ Há»– TRá»¢ QUÃ TRÃŒNH SÃNG Táº O Ná»˜I DUNG Sá»
+Dá»± Ã¡n: Infographic "HÃ nh TrÃ¬nh PhÃ¡t Triá»ƒn TrÃ­ Tuá»‡ NhÃ¢n Táº¡o"
+Há» vÃ  tÃªn
+Nguyá»…n ThÃ nh Vinh
+MÃ£ sinh viÃªn
+250
+23073
+Loáº¡i dá»± Ã¡n
+Infographic
+Chá»§ Ä‘á»
+HÃ nh TrÃ¬nh PhÃ¡t Triá»ƒn TrÃ­ Tuá»‡ NhÃ¢n Táº¡o (1950â€“2025)
+CÃ´ng cá»¥ AI sá»­ dá»¥ng
+Claude (Anthropic) â€¢ DALL-E 3 (OpenAI) â€¢ Canva AI
+I. GIá»šI THIá»†U Dá»° ÃN
+Giá»›i thiá»‡u chung
+Chá»§ Ä‘á»:
+ â€œHÃ nh trÃ¬nh phÃ¡t triá»ƒn cá»§a AI tá»« 1950 Ä‘áº¿n 2025â€
+MÃ´ táº£ sáº£n pháº©m:
+Infographic cÃ³ kÃ­ch thÆ°á»›c A2 (594mm Ã— 420mm), bá»‘ cá»¥c dá»c theo dáº¡ng timeline (Ä‘Æ°á»ng thá»i gian), vá»›i mÃ u sáº¯c chá»§ Ä‘áº¡o lÃ  xanh navy vÃ  cam vÃ ng. Ná»™i dung bao gá»“m 8 cá»™t má»‘c lá»‹ch sá»­ quan trá»ng tá»« 1950 Ä‘áº¿n 2025, má»—i cá»™t má»‘c cÃ³:
+NÄƒm vÃ  tÃªn sá»± kiá»‡n (in Ä‘áº­m, ná»•i báº­t)
+HÃ¬nh áº£n
+h minh há»a
+Äoáº¡n mÃ´ táº£ ngáº¯n gá»n
+Icon vÃ  mÃ u sáº¯c riÃªng cho tá»«ng thá»i ká»³
+1.2
+. CÃ¡c cÃ´ng cá»¥ AI Ä‘Æ°á»£c sá»­ dá»¥ng
+CÃ´ng cá»¥
+Loáº¡i
+Vai trÃ² trong dá»± Ã¡n
+Claude (Anthropic)
+AI táº¡o vÄƒn báº£n
+NghiÃªn cá»©u, viáº¿t ná»™i dung, biÃªn táº­p cÃ¡c mÃ´ táº£ sá»± kiá»‡n
+DALL-E 3 (OpenAI)
+AI táº¡o hÃ¬nh áº£nh
+Táº¡o hÃ¬nh minh há»a cho tá»«ng cá»™t má»‘c lá»‹ch sá»­ AI
+Canva AI
+AI há»— trá»£ thiáº¿t káº¿
+Tá»± Ä‘á»™ng hÃ³a bá»‘ cá»¥c, chá»n mÃ u, táº¡o phong cÃ¡ch nháº¥t quÃ¡n
+II. QUÃ TRÃŒNH Sá»¬ Dá»¤NG CÃ”NG Cá»¤ AI Táº O SINH
+2.1. Claude (Anthropic) â€“ CÃ´ng cá»¥ AI Táº¡o VÄƒn Báº£n
+2.1.1. Má»¥c Ä‘Ã­ch sá»­ dá»¥ng
+Claude Ä‘Æ°á»£c sá»­ dá»¥ng Ä‘á»ƒ thá»±c hiá»‡n ba nhiá»‡m vá»¥ chÃ­nh trong dá»± Ã¡n: 
+(1) nghiÃªn cá»©u v
+Ã  tá»•ng há»£p thÃ´ng tin lá»‹ch sá»­ AI
+ 
+(2) viáº¿t cÃ¡c Ä‘oáº¡n mÃ´ táº£ ngáº¯n gá»n
+ vÃ  chÃ­nh xÃ¡c cho tá»«ng cá»™t má»‘c
+(3) biÃªn táº­p vÃ  tinh chá»‰nh toÃ n bá»™ ná»™i dung vÄƒn báº£n trÃªn infographic.
+2.1.2. Prompt 1 â€“ NghiÃªn cá»©u vÃ  lÃªn danh sÃ¡ch cá»™t má»‘c lá»‹ch sá»­
+Prompt sá»­ dá»¥ng: 
+"HÃ£y liá»‡t kÃª 8 cá»™t má»‘c quan trá»ng nháº¥t trong lá»‹ch sá»­ phÃ¡t triá»ƒn TrÃ­ tuá»‡ NhÃ¢n táº¡o tá»« nÄƒm 1950 Ä‘áº¿n 2025. Vá»›i má»—i cá»™t má»‘c, cung cáº¥p: nÄƒm xáº£y ra, tÃªn sá»± kiá»‡n/phÃ¡t minh, nhÃ¢n váº­t/tá»• chá»©c liÃªn quan, vÃ  Ã½ nghÄ©a cá»§a nÃ³ trong 2-3 cÃ¢u ngáº¯n gá»n, dá»… hiá»ƒu. TrÃ¬nh bÃ y theo dáº¡ng báº£ng."
+ÄÃ¡nh giÃ¡: Káº¿t quáº£ ráº¥t Ä‘áº§y Ä‘á»§ vÃ  chÃ­nh xÃ¡c. Tuy nhiÃªn, pháº§n mÃ´ táº£ cÃ²n hÆ¡i há»c thuáº­t, chÆ°a phÃ¹ há»£p vá»›i Ä‘á»‘i tÆ°á»£ng Ä‘áº¡i chÃºng cá»§a infographic. Cáº§n Ä‘iá»u chá»‰nh á»Ÿ bÆ°á»›c tiáº¿p theo.
+2.1.3. Prompt 2 â€“ Viáº¿t mÃ´ táº£ ngáº¯n cho tá»«ng cá»™t má»‘c
+ðŸ“Œ Prompt sá»­ dá»¥ng: 
+"Dá»±a trÃªn danh sÃ¡ch 8 cá»™t má»‘c trÃªn, hÃ£y viáº¿t láº¡i pháº§n mÃ´ táº£ cho má»—i cá»™t má»‘c theo phong cÃ¡ch: ngáº¯n gá»n (tá»‘i Ä‘a 25 tá»«), dá»… hiá»ƒu vá»›i há»c sinh trung há»c, háº¥p dáº«n vÃ  cÃ³ thá»ƒ khÆ¡i gá»£i trÃ­ tÃ² mÃ². TrÃ¡nh dÃ¹ng thuáº­t ngá»¯ ká»¹ thuáº­t phá»©c táº¡p. Báº¯t Ä‘áº§u má»—i mÃ´ táº£ báº±ng má»™t Ä‘á»™ng tá»« máº¡nh."
+CÃ¢u tráº£ lá»i cá»§a claude:
+TÃ´i Ä‘iá»u chá»‰nh 3 trong sá»‘ 8 mÃ´ táº£ Ä‘á»ƒ phÃ¹ há»£p hÆ¡n vá»›i khÃ´ng gian giá»›i háº¡n cá»§a infographic (rÃºt xuá»‘ng cÃ²n 20 tá»«) vÃ  thÃªm dáº¥u cháº¥m than Ä‘á»ƒ táº¡o cáº£m xÃºc. NgoÃ i ra, bá»• sung thÃªm má»™t cÃ¢u tagline ngáº¯n theo phong cÃ¡ch tÃ´i tá»± viáº¿t: "Ká»· nguyÃªn AI â€“ khÃ´ng cÃ²n lÃ  khoa há»c viá»…n tÆ°á»Ÿng!"
+2.1.4. 
+Táº¡o tagline vÃ  tiÃªu Ä‘á» infographic
+ÄÃ³ng gÃ³p cÃ¡ nhÃ¢n: TÃ´i tá»± sÃ¡ng táº¡o thÃªm tiÃªu Ä‘á» phá»¥ "8 cá»™t má»‘c lÃ m thay Ä‘á»•i 
+tháº¿ giá»›i" Ä‘á»ƒ cá»¥ thá»ƒ hÃ³a ná»™i dung
+2.2. DALL-E 3 (OpenAI) â€“ CÃ´ng cá»¥ AI Táº¡o HÃ¬nh áº¢nh
+2.2.1. Má»¥c Ä‘Ã­ch sá»­ dá»¥ng
+DALL-E 3 Ä‘Æ°á»£c sá»­ dá»¥ng Ä‘á»ƒ táº¡o ra 8 hÃ¬nh áº£nh minh há»a phong cÃ¡ch vector/flat design, má»—i hÃ¬nh Ä‘áº¡i diá»‡n cho má»™t cá»™t má»‘c lá»‹ch sá»­ AI trÃªn infographic. CÃ¡c hÃ¬nh áº£nh cáº§n Ä‘á»“ng nháº¥t vá» phong cÃ¡ch nghá»‡ thuáº­t, báº£ng mÃ u, vÃ  kÃ­ch thÆ°á»›c Ä‘á»ƒ Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n cá»§a toÃ n bá»™ thiáº¿t káº¿.
+2.2.2. Chiáº¿n lÆ°á»£c Prompt cho DALL-E 3
+Má»™t trong nhá»¯ng thÃ¡ch thá»©c lá»›n nháº¥t khi sá»­ dá»¥ng DALL-E 3 lÃ  Ä‘áº£m báº£o tÃ­nh nháº¥t quÃ¡n vá» phong cÃ¡ch giá»¯a 8 hÃ¬nh áº£nh khÃ¡c nhau. TÃ´i Ä‘Ã£ xÃ¢y dá»±ng má»™t "master prompt template" vÃ  chá»‰ thay Ä‘á»•i pháº§n mÃ´ táº£ ná»™i dung:
+Master Prompt Template: 
+[Ná»˜I DUNG Cá»¤ THá»‚], flat vector illustration, minimalist style, navy blue and amber color palette, white background, clean geometric shapes, infographic icon style, simple and bold, no text, high contrast, professional design, 1:1 aspect ratio
+2.2.3. Prompt vÃ  káº¿t quáº£ cho tá»«ng hÃ¬nh áº£nh
+HÃ¬nh 1 â€“ BÃ i kiá»ƒm tra Turing (1950)
+Prompt gá»‘c: 
+A retro computer terminal and a human silhouette connected by speech bubbles with question marks, flat vector illustration, minimalist style, navy blue and amber color palette, white background, clean geometric shapes, infographic icon style, simple and bold, no text, high contrast, professional design, 1:1 aspect ratio
+Káº¿t quáº£
+: HÃ¬nh áº£nh Ä‘áº¡t yÃªu cáº§u vá» phong
+ cÃ¡ch. 
+Tuy nhiÃªn, tÃ´i nháº­n tháº¥y hÃ¬nh ngÆ°á»i hÆ¡i phá»©c táº¡p so vá»›i phong cÃ¡ch cáº§n thiáº¿t. TÃ´i giá»¯ hÃ¬nh nÃ y vÃ  Ä‘iá»u chá»‰nh Ä‘á»™ bÃ£o hÃ²a mÃ u trong Canva sau Ä‘Ã³.
+HÃ¬nh 2 â€“ Deep Blue tháº¯ng Kasparov (1997)
+Prompt sá»­ dá»¥ng: 
+A chess board with robotic arm making a chess move, human hand on the side looking defeated, flat vector illustration, strictly navy blue #1F4E79 and amber #F5A623 only, white background, bold geometric shapes, minimalist infographic style, no text, 1:1 square format
+HÃ¬nh 3 â€“ ChatGPT &amp; Claude ra Ä‘á»i (2022â€“2025)
+Prompt sá»­ dá»¥ng: 
+A glowing chat bubble emerging from a smartphone with circuit patterns inside, futuristic flat vector illustration, navy blue and amber color scheme, white background, minimalist geometric design, represents conversational AI revolution, no text, professional infographic icon
+Káº¿t quáº£: HÃ¬nh áº£nh cÃ³ pháº§n glow effect hÆ¡i náº·ng, khÃ´ng phÃ¹ há»£p vá»›i phong cÃ¡ch flat hoÃ n toÃ n. TÃ´i quyáº¿t Ä‘á»‹nh giá»¯ nguyÃªn vÃ  xá»­ lÃ½ báº±ng cÃ¡ch giáº£m Ä‘á»™ sÃ¡ng (brightness -15%) trong Canva Ä‘á»ƒ hÃ¬nh áº£nh Ä‘á»“ng nháº¥t hÆ¡n vá»›i cÃ¡c hÃ¬nh khÃ¡c.
+2.2.4. Nháº­n xÃ©t vá» quÃ¡ trÃ¬nh sá»­ dá»¥ng DALL-E 3
+Tá»•ng cá»™ng tÃ´i Ä‘Ã£ táº¡o 13
+ áº£nh (bao gá»“m cÃ¡c láº§n thá»­ láº¡i) Ä‘á»ƒ chá»n ra 8 áº£nh tá»‘t nháº¥t. Tá»· lá»‡ thÃ nh 
+cÃ´ng ngay tá»« láº§n Ä‘áº§u lÃ  khoáº£ng 65
+%. Nhá»¯ng prompt cÃ³ káº¿t quáº£ tá»‘t nháº¥t lÃ  nhá»¯ng prompt cÃ³ mÃ´ táº£ mÃ u sáº¯c cá»¥ thá»ƒ báº±ng mÃ£ hex vÃ  chá»‰ rÃµ 'NO other colors' hoáº·c 'STRICTLY'.
+2.3. Canva AI â€“ CÃ´ng cá»¥ AI Há»— Trá»£ Thiáº¿t Káº¿
+2.3.1. Má»¥c Ä‘Ã­ch sá»­ dá»¥ng
+Canva AI Ä‘Æ°á»£c sá»­ dá»¥ng cho giai Ä‘oáº¡n cuá»‘i: láº¯p rÃ¡p toÃ n bá»™ infographic, sá»­ dá»¥ng tÃ­nh nÄƒng Magic Design Ä‘á»ƒ gá»£i Ã½ bá»‘ cá»¥c tá»± Ä‘á»™ng, vÃ  dÃ¹ng Magic Write Ä‘á»ƒ viáº¿t thÃªm cÃ¡c caption phá»¥. ÄÃ¢y lÃ  nÆ¡i tÃ­ch há»£p táº¥t cáº£ Ä‘áº§u ra tá»« Claude vÃ  DALL-E 3 thÃ nh sáº£n pháº©m hoÃ n chá»‰nh.
+2.3.2. BÆ°á»›c 1 â€“ Táº¡o khung thiáº¿t káº¿ vá»›i Magic Design
+Prompt cho Magic Media
+: "Timeline infographic about AI history, dark navy blue and amber orange, minimalist modern style, 8 milestones vertical layout, professional and clean"
+2.3.3. BÆ°á»›c 2 â€“ Import hÃ¬nh áº£nh tá»« DALL-E 3 vÃ  ná»™i dung tá»« Claude
+2.3.5. BÆ°á»›
+c 3
+ â€“ Tinh chá»‰nh cuá»‘i vÃ  xuáº¥t file
+CÃ¡c Ä‘iá»u chá»‰nh thiáº¿t káº¿ thá»§ cÃ´ng khÃ´ng dÃ¹ng AI:
+ThÃªm Ä‘Æ°á»ng timeline báº±ng tay (line tool, mÃ u 
+xÃ¡m xanh
+, Ä‘á»™ dÃ y 3px)
+ThÃªm sá»‘ nÄƒm (1950, 1966...) báº±ng phÃ´ng chá»¯ Impact, mÃ u 
+tráº¯ng
+CÄƒn chá»‰nh táº¥t cáº£ cÃ¡c pháº§n tá»­ theo lÆ°á»›i 8pt Ä‘á»ƒ Ä‘áº£m báº£o nháº¥t quÃ¡n
+Kiá»ƒm tra contrast mÃ u theo chuáº©n WCAG AA trÆ°á»›c khi xuáº¥t
+III. Sáº¢N PHáº¨M CUá»I CÃ™NG VÃ€ ÄÃ“NG GÃ“P SÃNG Táº O CÃ NHÃ‚N
+3.1. MÃ´ táº£ sáº£n pháº©m cuá»‘i cÃ¹ng
+Sáº£n pháº©m cuá»‘i cÃ¹ng lÃ  infographic "HÃ nh TrÃ¬nh AI: Tá»« Giáº¥c MÆ¡ Äáº¿n Thá»±c Táº¡i â€“ 8 Cá»™t Má»‘c LÃ m Thay Äá»•i Tháº¿ Giá»›i" Ä‘á»‹nh dáº¡ng A2 (594Ã—420mm), Ä‘Æ°á»£c xuáº¥t dÆ°á»›i dáº¡ng PDF cháº¥t lÆ°á»£ng cao (300 DPI) vÃ  PNG (phÃ¹ há»£p Ä‘Äƒng máº¡ng xÃ£ há»™i).
+Infographic Ä‘Æ°á»£c Ä‘Ã¡nh giÃ¡ lÃ  Ä‘áº¡t yÃªu cáº§u vá»: Ä‘á»™ chÃ­nh xÃ¡c thÃ´ng tin (dá»±a trÃªn nghiÃªn cá»©u tá»« Claude), tÃ­nh tháº©m má»¹ (hÃ¬nh áº£nh vector nháº¥t quÃ¡n tá»« DALL-E 3), vÃ  tÃ­nh chuyÃªn nghiá»‡p trong bá»‘ cá»¥c (nhá» template Canva AI + tÃ¹y chá»‰nh thá»§ cÃ´ng).
+3.2. PhÃ¢n tÃ­ch tá»· lá»‡ Ä‘Ã³ng gÃ³p giá»¯a AI vÃ  sÃ¡ng táº¡o cÃ¡ nhÃ¢n
+Háº¡ng má»¥c
+ÄÃ³ng gÃ³p cá»§a AI (%)
+ÄÃ³ng gÃ³p cÃ¡ nhÃ¢n (%)
+NghiÃªn cá»©u &amp; dá»¯ liá»‡u
+70%
+30%
+Viáº¿t vÄƒn báº£n/mÃ´ táº£
+60%
+40%
+HÃ¬nh áº£nh minh há»a
+80%
+20%
+Bá»‘ cá»¥c tá»•ng thá»ƒ
+40%
+60%
+MÃ u sáº¯c &amp; typography
+30%
+70%
+Hiá»‡u á»©ng &amp; chi tiáº¿t thá»§ cÃ´ng
+0%
+100%
+TRUNG BÃŒNH TOÃ€N Dá»° ÃN
+~47%
+~53%
+Nháº­n xÃ©t: Vá»›i tá»· lá»‡ Ä‘Ã³ng gÃ³p cÃ¡ nhÃ¢n chiáº¿m khoáº£ng 53%, sáº£n pháº©m Ä‘áº£m báº£o cÃ¢n báº±ng giá»¯a sá»©c máº¡nh cá»§a AI vÃ  tÆ° duy sÃ¡ng táº¡o Ä‘á»™c láº­p. AI Ä‘Ã³ng vai trÃ² nhÆ° má»™t trá»£ lÃ½ máº¡nh máº½, cÃ²n cÃ¡c quyáº¿t Ä‘á»‹nh thiáº¿t káº¿ vÃ  Ä‘á»‹nh hÆ°á»›ng nghá»‡ thuáº­t chá»§ yáº¿u váº«n Ä‘áº¿n tá»« ngÆ°á»i táº¡o ra.
+IV. SO SÃNH VÃ€ PHÃ‚N TÃCH CÃC CÃ”NG Cá»¤ AI
+4.1. Báº£ng so sÃ¡nh tá»•ng quan
+TiÃªu chÃ­
+Claude
+DALL-E 3
+Canva AI
+Cháº¥t lÆ°á»£ng Ä‘áº§u ra
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜…â˜†
+â˜…â˜…â˜…â˜…â˜†
+Dá»… sá»­ dá»¥ng
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜…â˜†
+â˜…â˜…â˜…â˜…â˜…
+Kháº£ nÄƒng tÃ¹y chá»‰nh
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜†â˜†
+â˜…â˜…â˜…â˜…â˜†
+Tá»‘c Ä‘á»™ pháº£n há»“i
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜†â˜†
+â˜…â˜…â˜…â˜…â˜†
+TÃ­nh nháº¥t quÃ¡n
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜†â˜†
+â˜…â˜…â˜…â˜…â˜…
+PhÃ¹ há»£p vá»›i dá»± Ã¡n nÃ y
+â˜…â˜…â˜…â˜…â˜…
+â˜…â˜…â˜…â˜…â˜†
+â˜…â˜…â˜…â˜…â˜…
+4.2. PhÃ¢n tÃ­ch chi tiáº¿t tá»«ng cÃ´ng cá»¥
+4.2.1. Claude â€“ Äiá»ƒm máº¡nh vÃ  Ä‘iá»ƒm yáº¿u
+Äiá»ƒm máº¡nh ná»•i báº­t cá»§a Claude lÃ  kháº£ nÄƒng hiá»ƒu ngá»¯ cáº£nh phá»©c táº¡p vÃ  duy trÃ¬ tÃ­nh nháº¥t quÃ¡n trong suá»‘t cuá»™c trÃ² chuyá»‡n dÃ i. Khi yÃªu cáº§u Claude viáº¿t 8 Ä‘oáº¡n mÃ´ táº£ theo phong cÃ¡ch nháº¥t quÃ¡n, káº¿t quáº£ ráº¥t Ä‘á»“ng Ä‘á»u vá» giá»ng vÄƒn vÃ  Ä‘á»™ dÃ i. Claude cÅ©ng cho tháº¥y kháº£ nÄƒng tá»± phÃª bÃ¬nh tá»‘t â€“ khi Ä‘Æ°á»£c há»i "HÃ£y tÃ¬m nhá»¯ng Ä‘iá»ƒm cÃ²n yáº¿u trong cÃ¡c mÃ´ táº£ trÃªn", Claude Ä‘Ã£ chá»‰ ra Ä‘Æ°á»£c 3 Ä‘iá»ƒm cáº§n cáº£i thiá»‡n má»™t cÃ¡ch chÃ­nh xÃ¡c.
+Äiá»ƒm háº¡n cháº¿: Claude Ä‘Ã´i khi quÃ¡ tháº­n trá»ng vÃ  thÃªm quÃ¡ nhiá»u cáº£nh bÃ¡o ("LÆ°u Ã½ ráº±ng...", "Tuy nhiÃªn cáº§n kiá»ƒm tra láº¡i...") khÃ´ng cáº§n thiáº¿t vá»›i infographic. Pháº£i dÃ¹ng prompt bá»• sung "Äá»«ng thÃªm lá»i cáº£nh bÃ¡o, chá»‰ cáº§n tráº£ lá»i trá»±c tiáº¿p" Ä‘á»ƒ kháº¯c phá»¥c.
+VÃ­ dá»¥ cá»¥ thá»ƒ: Khi há»i vá» cá»™t má»‘c "MÃ¹a Ä‘Ã´ng AI" (1974), Claude láº§n Ä‘áº§u tráº£ lá»i quÃ¡ há»c thuáº­t. Sau khi thÃªm vÃ o prompt "Viáº¿t cho há»c sinh 16 tuá»•i", káº¿t quáº£ cáº£i thiá»‡n rÃµ rá»‡t tá»« 'NgÃ¢n sÃ¡ch nghiÃªn cá»©u AI bá»‹ cáº¯t giáº£m máº¡nh do ká»³ vá»ng khÃ´ng Ä‘Æ°á»£c Ä‘Ã¡p á»©ng' thÃ nh 'Giáº¥c mÆ¡ AI táº¡m thá»i lá»¥i tÃ n khi thá»±c táº¿ khÃ´ng sÃ¡nh ká»‹p trÃ­ tÆ°á»Ÿng tÆ°á»£ng'.
+4.2.2. DALL-E 3 â€“ Äiá»ƒm máº¡nh vÃ  Ä‘iá»ƒm yáº¿u
+Äiá»ƒm máº¡nh: DALL-E 3 táº¡o ra hÃ¬nh áº£nh cháº¥t lÆ°á»£ng cao vá»›i Ä‘á»™ chi tiáº¿t áº¥n tÆ°á»£ng. Khi prompt Ä‘Æ°á»£c viáº¿t tá»‘t, hÃ¬nh áº£nh Ä‘áº§u ra ráº¥t gáº§n vá»›i Ã½ tÆ°á»Ÿng ban Ä‘áº§u. DALL-E 3 cÅ©ng hiá»ƒu tá»‘t cÃ¡c thuáº­t ngá»¯ thiáº¿t káº¿ nhÆ° 'flat vector', 'minimalist', 'infographic style'.
+Äiá»ƒm háº¡n cháº¿ quan trá»ng nháº¥t: TÃ­nh nháº¥t quÃ¡n giá»¯a cÃ¡c hÃ¬nh áº£nh ráº¥t tháº¥p. DÃ¹ dÃ¹ng cÃ¹ng má»™t template prompt, má»—i hÃ¬nh cÃ³ sá»± khÃ¡c biá»‡t vá» Ä‘á»™ Ä‘áº­m nháº¡t mÃ u, tá»· lá»‡ chi tiáº¿t, vÃ  phong cÃ¡ch Ä‘Æ°á»ng nÃ©t. Pháº£i máº¥t thÃªm thá»i gian Ä‘iá»u chá»‰nh trong Canva Ä‘á»ƒ Ä‘á»“ng nháº¥t hÃ³a. NgoÃ i ra, DALL-E 3 táº¡o ra áº£nh cháº­m hÆ¡n Ä‘Ã¡ng ká»ƒ so vá»›i Claude (khoáº£ng 15-30 giÃ¢y/áº£nh so vá»›i 3-5 giÃ¢y/pháº£n há»“i vÄƒn báº£n).
+BÃ i há»c kinh nghiá»‡m: NÃªn táº¡o táº¥t cáº£ hÃ¬nh áº£nh trong má»™t phiÃªn lÃ m viá»‡c liÃªn tá»¥c vÃ  dÃ¹ng cÃ¹ng má»™t mÃ´ hÃ¬nh (khÃ´ng chuyá»ƒn giá»¯a cÃ¡c phiÃªn báº£n) Ä‘á»ƒ tá»‘i Ä‘a hÃ³a tÃ­nh nháº¥t quÃ¡n. ThÃªm 'reference: [mÃ´ táº£ hÃ¬nh trÆ°á»›c]' vÃ o cuá»‘i má»—i prompt Ä‘á»ƒ hÆ°á»›ng dáº«n DALL-E duy trÃ¬ phong cÃ¡ch.
+4.2.3. Canva AI â€“ Äiá»ƒm máº¡nh vÃ  Ä‘iá»ƒm yáº¿u
+Äiá»ƒm máº¡nh: Canva AI tÃ­ch há»£p mÆ°á»£t mÃ  vÃ o quy trÃ¬nh thiáº¿t káº¿, giÃºp giáº£m Ä‘Ã¡ng ká»ƒ thá»i gian tá»« Ã½ tÆ°á»Ÿng Ä‘áº¿n sáº£n pháº©m. Magic Design Ä‘áº·c biá»‡t há»¯u Ã­ch cho ngÆ°á»i khÃ´ng chuyÃªn vá» thiáº¿t káº¿ â€“ chá»‰ cáº§n mÃ´ táº£ báº±ng ngÃ´n ngá»¯ tá»± nhiÃªn lÃ  cÃ³ Ä‘Æ°á»£c bá»‘ cá»¥c chuyÃªn nghiá»‡p.
+Äiá»ƒm háº¡n cháº¿: Magic Write cá»§a Canva AI yáº¿u hÆ¡n Ä‘Ã¡ng ká»ƒ so vá»›i Claude khi viáº¿t vÄƒn báº£n tiáº¿ng Viá»‡t. Káº¿t quáº£ thÆ°á»ng lÃ  tiáº¿ng Anh vÃ  cáº§n dá»‹ch láº¡i. NgoÃ i ra, Magic Design Ä‘Ã´i khi gá»£i Ã½ bá»‘ cá»¥c quÃ¡ generic, thiáº¿u tÃ­nh Ä‘á»™c Ä‘Ã¡o. Cáº§n nhiá»u tÃ¹y chá»‰nh thá»§ cÃ´ng Ä‘á»ƒ táº¡o ra sá»± khÃ¡c biá»‡t.
+4.3. Káº¿t luáº­n vá» lá»±a chá»n cÃ´ng cá»¥
+Ba cÃ´ng cá»¥ nÃ y bá»• trá»£ ráº¥t tá»‘t cho nhau vÃ  phÃ¹ há»£p vá»›i tá»«ng giai Ä‘oáº¡n khÃ¡c nhau cá»§a quy trÃ¬nh sÃ¡ng táº¡o. Claude máº¡nh nháº¥t á»Ÿ giai Ä‘oáº¡n nghiÃªn cá»©u vÃ  viáº¿t ná»™i dung, DALL-E 3 Ä‘áº£m nháº­n pháº§n hÃ¬nh áº£nh minh há»a, cÃ²n Canva AI lÃ  cáº§u ná»‘i Ä‘á»ƒ tá»•ng há»£p thÃ nh sáº£n pháº©m hoÃ n chá»‰nh. Náº¿u chá»‰ Ä‘Æ°á»£c chá»n má»™t cÃ´ng cá»¥ cho toÃ n bá»™ dá»± Ã¡n, Claude sáº½ lÃ  lá»±a chá»n tá»‘t nháº¥t vÃ¬ tÃ­nh linh hoáº¡t vÃ  kháº£ nÄƒng há»— trá»£ Ä‘a dáº¡ng loáº¡i ná»™i dung.
+V. PHÃ‚N TÃCH VAI TRÃ’ Cá»¦A AI TRONG QUÃ TRÃŒNH SÃNG Táº O
+5.1. Nhá»¯ng pháº§n AI lÃ m tá»‘t
+Trong dá»± Ã¡n nÃ y, AI thá»ƒ hiá»‡n xuáº¥t sáº¯c á»Ÿ má»™t sá»‘ lÄ©nh vá»±c cá»¥ thá»ƒ:
+Thá»© nháº¥t, tá»‘c Ä‘á»™ nghiÃªn cá»©u vÃ  tá»•ng há»£p thÃ´ng tin: Viá»‡c tÃ¬m kiáº¿m vÃ  tÃ³m táº¯t 8 cá»™t má»‘c lá»‹ch sá»­ AI cÃ¹ng vá»›i cÃ¡c chi tiáº¿t chÃ­nh xÃ¡c chá»‰ máº¥t khoáº£ng 2 phÃºt vá»›i Claude, trong khi náº¿u lÃ m thá»§ cÃ´ng (Google, Wikipedia, kiá»ƒm tra chÃ©o nguá»“n) cÃ³ thá»ƒ máº¥t 2-3 giá». ÄÃ¢y lÃ  lá»£i tháº¿ rÃµ rÃ ng nháº¥t cá»§a AI.
+Thá»© hai, kháº£ nÄƒng Ä‘iá»u chá»‰nh phong cÃ¡ch viáº¿t linh hoáº¡t: Claude cÃ³ thá»ƒ Ä‘iá»u chá»‰nh cÃ¹ng má»™t ná»™i dung tá»« há»c thuáº­t sang thÃ´ng dá»¥ng, tá»« ngáº¯n gá»n sang chi tiáº¿t, chá»‰ trong vÃ i giÃ¢y, giÃºp tÃ´i thá»­ nghiá»‡m nhiá»u phong cÃ¡ch khÃ¡c nhau trÆ°á»›c khi quyáº¿t Ä‘á»‹nh.
+Thá»© ba, táº¡o hÃ¬nh áº£nh tá»« mÃ´ táº£ vÄƒn báº£n: DALL-E 3 cÃ³ thá»ƒ biáº¿n nhá»¯ng Ã½ tÆ°á»Ÿng trá»«u tÆ°á»£ng thÃ nh hÃ¬nh áº£nh cá»¥ thá»ƒ mÃ  khÃ´ng cáº§n ká»¹ nÄƒng váº½ hay pháº§n má»m Ä‘á»“ há»a chuyÃªn nghiá»‡p.
+5.2. Nhá»¯ng pháº§n AI cÃ²n háº¡n cháº¿
+Báº¥t cháº¥p nhá»¯ng Æ°u Ä‘iá»ƒm trÃªn, AI váº«n cÃ³ nhá»¯ng háº¡n cháº¿ Ä‘Ã¡ng chÃº Ã½ trong dá»± Ã¡n nÃ y:
+Háº¡n cháº¿ lá»›n nháº¥t cá»§a DALL-E 3 lÃ  tÃ­nh nháº¥t quÃ¡n tháº¥p giá»¯a cÃ¡c hÃ¬nh áº£nh. KhÃ´ng thá»ƒ yÃªu cáº§u DALL-E "táº¡o hÃ¬nh áº£nh giá»‘ng vá»›i hÃ¬nh sá»‘ 3 nhÆ°ng thay ná»™i dung" má»™t cÃ¡ch Ä‘Ã¡ng tin cáº­y. Äiá»u nÃ y Ä‘Ã²i há»i nhiá»u thá»i gian xá»­ lÃ½ háº­u ká»³ trong Canva Ä‘á»ƒ Ä‘á»“ng nháº¥t hÃ³a.
+Claude Ä‘Ã´i khi "hallucinate" (táº¡o ra thÃ´ng tin khÃ´ng chÃ­nh xÃ¡c) vá»›i cÃ¡c chi tiáº¿t lá»‹ch sá»­ cá»¥ thá»ƒ, nhÆ° sá»‘ lÆ°á»£ng tham sá»‘ cá»§a má»™t mÃ´ hÃ¬nh AI hay ngÃ y thÃ¡ng chÃ­nh xÃ¡c cá»§a má»™t sá»± kiá»‡n. Má»i thÃ´ng tin tá»« Claude Ä‘á»u cáº§n Ä‘Æ°á»£c kiá»ƒm tra láº¡i tá»« nguá»“n Ä‘Ã¡ng tin cáº­y trÆ°á»›c khi Ä‘Æ°a vÃ o infographic.
+Canva AI (Magic Design) thiáº¿u kháº£ nÄƒng hiá»ƒu Ã½ Ä‘á»‹nh sÃ¢u xa cá»§a nhÃ  thiáº¿t káº¿. CÃ¡c máº«u gá»£i Ã½ thÆ°á»ng an toÃ n nhÆ°ng thiáº¿u cÃ¡ tÃ­nh, chÆ°a phÃ¹ há»£p vá»›i nhá»¯ng dá»± Ã¡n Ä‘Ã²i há»i phong cÃ¡ch Ä‘á»™c Ä‘Ã¡o cao.
+5.3. CÃ¡ch AI thay Ä‘á»•i quy trÃ¬nh sÃ¡ng táº¡o
+TrÆ°á»›c khi cÃ³ AI táº¡o sinh, quy trÃ¬nh táº¡o má»™t infographic thÆ°á»ng theo thá»© tá»± tuyáº¿n tÃ­nh: NghiÃªn cá»©u â†’ Viáº¿t ná»™i dung â†’ TÃ¬m hÃ¬nh áº£nh tá»« stock photo â†’ Thiáº¿t káº¿ layout â†’ Xuáº¥t báº£n. Quy trÃ¬nh nÃ y máº¥t tá»« 2-3 ngÃ y cho má»™t ngÆ°á»i Ä‘Æ¡n láº».
+Vá»›i AI táº¡o sinh, quy trÃ¬nh trá»Ÿ nÃªn song song vÃ  phi tuyáº¿n tÃ­nh hÆ¡n: TÃ´i cÃ³ thá»ƒ yÃªu cáº§u Claude nghiÃªn cá»©u trong khi DALL-E Ä‘ang táº¡o áº£nh, vÃ  Canva AI Ä‘ang gá»£i Ã½ layout â€“ táº¥t cáº£ diá»…n ra Ä‘á»“ng thá»i. Tá»•ng thá»i gian hoÃ n thÃ nh dá»± Ã¡n chá»‰ máº¥t khoáº£ng 6 giá» lÃ m viá»‡c thá»±c táº¿ (khÃ´ng tÃ­nh thá»i gian suy nghÄ© vÃ  lÃªn káº¿ hoáº¡ch).
+Quan trá»ng hÆ¡n, AI Ä‘Ã£ thay Ä‘á»•i vai trÃ² cá»§a ngÆ°á»i táº¡o ra tá»« "ngÆ°á»i thá»±c thi" (execution) sang "ngÆ°á»i Ä‘á»‹nh hÆ°á»›ng" (direction). Thay vÃ¬ tá»± tay viáº¿t tá»«ng cÃ¢u hay váº½ tá»«ng hÃ¬nh, tÃ´i dÃ nh nhiá»u thá»i gian hÆ¡n cho viá»‡c: Ä‘áº·t cÃ¢u há»i Ä‘Ãºng cho AI, Ä‘Ã¡nh giÃ¡ vÃ  lá»c káº¿t quáº£, vÃ  ra quyáº¿t Ä‘á»‹nh sÃ¡ng táº¡o cuá»‘i cÃ¹ng. ÄÃ¢y lÃ  sá»± dá»‹ch chuyá»ƒn Ä‘Ã¡ng ká»ƒ trong ká»¹ nÄƒng cáº§n cÃ³.
+5.4. CÃ¡c váº¥n Ä‘á» Ä‘áº¡o Ä‘á»©c cáº§n cÃ¢n nháº¯c
+5.4.1. Váº¥n Ä‘á» báº£n quyá»n vÃ  quyá»n sá»Ÿ há»¯u
+Má»™t trong nhá»¯ng cÃ¢u há»i phá»©c táº¡p nháº¥t khi sá»­ dá»¥ng AI táº¡o sinh lÃ : Ai sá»Ÿ há»¯u sáº£n pháº©m cuá»‘i cÃ¹ng? Theo Ä‘iá»u khoáº£n sá»­ dá»¥ng cá»§a OpenAI (DALL-E 3), ngÆ°á»i dÃ¹ng sá»Ÿ há»¯u hÃ¬nh áº£nh Ä‘Æ°á»£c táº¡o ra. Claude (Anthropic) cÅ©ng khÃ´ng yÃªu cáº§u quyá»n sá»Ÿ há»¯u Ä‘á»‘i vá»›i ná»™i dung táº¡o ra. Tuy nhiÃªn, vá» máº·t Ä‘áº¡o Ä‘á»©c, viá»‡c cÃ´ng bá»‘ má»™t sáº£n pháº©m hoÃ n toÃ n do AI táº¡o ra mÃ  khÃ´ng minh báº¡ch Ä‘iá»u nÃ y cÃ³ thá»ƒ gÃ¢y hiá»ƒu láº§m.
+Giáº£i phÃ¡p tÃ´i Ã¡p dá»¥ng: LuÃ´n ghi chÃº rÃµ rÃ ng trong pháº§n thÃ´ng tin dá»± Ã¡n ráº±ng "Sáº£n pháº©m Ä‘Æ°á»£c táº¡o ra vá»›i sá»± há»— trá»£ cá»§a Claude, DALL-E 3, vÃ  Canva AI" Ä‘á»ƒ Ä‘áº£m báº£o tÃ­nh minh báº¡ch.
+5.4.2. Váº¥n Ä‘á» vá» tÃ­nh chÃ­nh xÃ¡c cá»§a thÃ´ng tin
+NhÆ° Ä‘Ã£ Ä‘á» cáº­p, AI cÃ³ thá»ƒ táº¡o ra thÃ´ng tin sai (hallucination). Äiá»u nÃ y Ä‘áº·t ra trÃ¡ch nhiá»‡m lá»›n cho ngÆ°á»i sá»­ dá»¥ng trong viá»‡c kiá»ƒm tra vÃ  xÃ¡c minh. Vá»›i má»™t infographic vá» lá»‹ch sá»­ AI Ä‘Æ°á»£c phÃ¢n phá»‘i rá»™ng rÃ£i, thÃ´ng tin sai cÃ³ thá»ƒ lan truyá»n nhanh chÃ³ng vÃ  gÃ¢y hiá»ƒu nháº§m.
+Giáº£i phÃ¡p: TÃ´i Ä‘Ã£ kiá»ƒm tra chÃ©o toÃ n bá»™ 8 cá»™t má»‘c lá»‹ch sá»­ vá»›i cÃ¡c nguá»“n Ä‘Ã¡ng tin cáº­y (Wikipedia, bÃ i bÃ¡o há»c thuáº­t, trang web chÃ­nh thá»©c cá»§a cÃ¡c tá»• chá»©c liÃªn quan) trÆ°á»›c khi Ä‘Æ°a vÃ o sáº£n pháº©m cuá»‘i.
+5.4.3. Váº¥n Ä‘á» vá» phá»¥ thuá»™c vÃ o AI vÃ  máº¥t ká»¹ nÄƒng
+Sá»­ dá»¥ng AI quÃ¡ nhiá»u cÃ³ thá»ƒ dáº«n Ä‘áº¿n viá»‡c ngÆ°á»i dÃ¹ng dáº§n máº¥t Ä‘i cÃ¡c ká»¹ nÄƒng cÆ¡ báº£n nhÆ° viáº¿t, nghiÃªn cá»©u, hay thiáº¿t káº¿. CÃ³ má»™t nghá»‹ch lÃ½ thÃº vá»‹: cÃ ng sá»­ dá»¥ng AI giá»i (biáº¿t Ä‘áº·t prompt tá»‘t, biáº¿t Ä‘Ã¡nh giÃ¡ káº¿t quáº£), báº¡n cÃ ng cáº§n cÃ³ ná»n táº£ng kiáº¿n thá»©c vá»¯ng cháº¯c vá» lÄ©nh vá»±c Ä‘Ã³ Ä‘á»ƒ nháº­n biáº¿t káº¿t quáº£ tá»‘t hay xáº¥u.
+Quan Ä‘iá»ƒm cÃ¡ nhÃ¢n: AI nÃªn Ä‘Æ°á»£c sá»­ dá»¥ng nhÆ° má»™t cÃ´ng cá»¥ khuáº¿ch Ä‘áº¡i nÄƒng lá»±c (amplifier), khÃ´ng pháº£i lÃ  sá»± thay tháº¿ (replacement) cho ká»¹ nÄƒng con ngÆ°á»i. NgÆ°á»i dÃ¹ng cáº§n chá»§ Ä‘á»™ng há»c há»i vÃ  phÃ¡t triá»ƒn ká»¹ nÄƒng bÃªn cáº¡nh viá»‡c sá»­ dá»¥ng AI, chá»© khÃ´ng nÃªn phá»¥ thuá»™c hoÃ n toÃ n.
+5.4.4. Váº¥n Ä‘á» vá» thiÃªn kiáº¿n (bias) trong AI
+CÃ¡c mÃ´ hÃ¬nh AI Ä‘Æ°á»£c huáº¥n luyá»‡n trÃªn dá»¯ liá»‡u cÃ³ sáºµn, vÃ  dá»¯ liá»‡u Ä‘Ã³ cÃ³ thá»ƒ pháº£n Ã¡nh cÃ¡c thiÃªn kiáº¿n vÄƒn hÃ³a, xÃ£ há»™i. Trong dá»± Ã¡n nÃ y, khi tÃ´i yÃªu cáº§u DALL-E táº¡o hÃ¬nh minh há»a cho "nhÃ  khoa há»c AI", hÃ¬nh áº£nh Ä‘áº§u tiÃªn thÆ°á»ng lÃ  ngÆ°á»i Ä‘Ã n Ã´ng da tráº¯ng trong phÃ²ng lab hiá»‡n Ä‘áº¡i â€“ pháº£n Ã¡nh thiÃªn kiáº¿n trong dá»¯ liá»‡u huáº¥n luyá»‡n. TÃ´i Ä‘Ã£ pháº£i thÃªm vÃ o prompt "diverse scientists, include women and people of different ethnicities" Ä‘á»ƒ kháº¯c phá»¥c.
+ÄÃ¢y lÃ  lá»i nháº¯c nhá»Ÿ quan trá»ng ráº±ng AI khÃ´ng pháº£i lÃ  trung láº­p vÃ  ngÆ°á»i dÃ¹ng cáº§n nháº­n thá»©c vá» Ä‘iá»u nÃ y Ä‘á»ƒ chá»§ Ä‘á»™ng Ä‘iá»u chá»‰nh káº¿t quáº£.

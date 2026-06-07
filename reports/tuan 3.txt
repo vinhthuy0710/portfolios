@@ -1,0 +1,71 @@
+﻿BÃO CÃO THá»¬ NGHIá»†M VÃ€ PHÃ‚N TÃCH PROMPT ENGINEERING
+Chá»§ Ä‘á»:
+ Há»c mÃ¡y (Machine Learning) vÃ  Há»c sÃ¢u (Deep Learning)
+1. TÃ¡c vá»¥ 1: TÃ³m táº¯t tÃ i liá»‡u há»c thuáº­t
+Má»¥c tiÃªu:
+ TrÃ­ch xuáº¥t cÃ¡c ná»™i dung cá»‘t lÃµi cá»§a ChÆ°Æ¡ng 4.
+Prompt cÆ¡ báº£n:
+ "TÃ³m táº¯t ná»™i dung chÃ­nh cá»§a tÃ i liá»‡u nÃ y."
+Prompt cáº£i tiáº¿n:
+ "TÃ³m táº¯t ChÆ°Æ¡ng 4 vá» Há»c mÃ¡y vÃ  Há»c sÃ¢u. Táº­p trung vÃ o cÃ¡c Ä‘á»‹nh nghÄ©a, quy trÃ¬nh xÃ¢y dá»±ng mÃ´ hÃ¬nh vÃ  cÃ¡c ká»¹ thuáº­t phá»• biáº¿n Ä‘Æ°á»£c nháº¯c Ä‘áº¿n."
+Prompt nÃ¢ng cao (Role + Structural):
+ "Báº¡n lÃ  má»™t chuyÃªn gia khoa há»c dá»¯ liá»‡u. HÃ£y tÃ³m táº¯t tÃ i liá»‡u nÃ y cho má»™t sinh viÃªn CNTT. Sá»­ dá»¥ng cáº¥u trÃºc: 1. Tá»•ng quan &amp; Äá»‹nh nghÄ©a; 2. Quy trÃ¬nh 03 bÆ°á»›c chÃ­nh; 3. PhÃ¢n loáº¡i ká»¹ thuáº­t (GiÃ¡m sÃ¡t, KhÃ´ng giÃ¡m sÃ¡t, TÄƒng cÆ°á»ng). TrÃ¬nh bÃ y dÆ°á»›i dáº¡ng danh sÃ¡ch dáº¥u cháº¥m dÃ²ng (bullet points) ngáº¯n gá»n."
+2. TÃ¡c vá»¥ 2: Giáº£i thÃ­ch khÃ¡i niá»‡m phá»©c táº¡p (Máº¡ng LSTM)
+Má»¥c tiÃªu:
+ LÃ m rÃµ cÆ¡ cháº¿ hoáº¡t Ä‘á»™ng cá»§a Long Short-Term Memory, má»™t biáº¿n thá»ƒ cá»§a RNN.
+Prompt cÆ¡ báº£n:
+ "Máº¡ng LSTM lÃ  gÃ¬?"
+Prompt cáº£i tiáº¿n:
+ "Giáº£i thÃ­ch khÃ¡i niá»‡m máº¡ng LSTM trong tÃ i liá»‡u. Táº¡i sao nÃ³ láº¡i giáº£i quyáº¿t Ä‘Æ°á»£c váº¥n Ä‘á» 'phá»¥ thuá»™c quÃ¡ dÃ i' cá»§a RNN truyá»n thá»‘ng?" 
+Prompt nÃ¢ng cao (Chain-of-Thought + Analogy):
+ "Dá»±a trÃªn pháº§n 4.6.4 vÃ  4.6.5, hÃ£y giáº£i thÃ­ch cÆ¡ cháº¿ hoáº¡t Ä‘á»™ng cá»§a LSTM. Äáº§u tiÃªn, hÃ£y dÃ¹ng phÃ©p áº©n dá»¥ 'bÄƒng chuyá»n' Ä‘á»ƒ mÃ´ táº£ Cell State. Sau Ä‘Ã³, hÃ£y phÃ¢n tÃ­ch tá»«ng bÆ°á»›c logic: táº¡i sao cáº§n cá»•ng cháº·n (forget gate) , cá»•ng Ä‘áº§u vÃ o vÃ  cá»•ng Ä‘áº§u ra. Cuá»‘i cÃ¹ng, káº¿t luáº­n táº¡i sao nÃ³ giá»¯ Ä‘Æ°á»£c thÃ´ng tin lÃ¢u hÆ¡n RNN."
+3. TÃ¡c vá»¥ 3: Táº¡o bá»™ cÃ¢u há»i Ã´n táº­p
+Má»¥c tiÃªu:
+ Táº¡o cÃ´ng cá»¥ tá»± há»c cho sinh viÃªn dá»±a trÃªn cÃ¡c chá»‰ sá»‘ Ä‘Ã¡nh giÃ¡ mÃ´ hÃ¬nh vÃ  thuáº­t toÃ¡n.
+Prompt cÆ¡ báº£n:
+ "Táº¡o 5 cÃ¢u há»i tráº¯c nghiá»‡m tá»« ná»™i dung tÃ i liá»‡u."
+Prompt cáº£i tiáº¿n:
+ "Táº¡o 5 cÃ¢u há»i Ã´n táº­p vá» cÃ¡c chá»‰ sá»‘ Ä‘Ã¡nh giÃ¡ mÃ´ hÃ¬nh phÃ¢n lá»›p (Ma tráº­n nháº§m láº«n) vÃ  mÃ´ hÃ¬nh dá»± Ä‘oÃ¡n (RMSE, MAE). KÃ¨m theo Ä‘Ã¡p Ã¡n."
+Prompt nÃ¢ng cao (Few-shot + Difficulty Level):
+ "HÃ£y Ä‘Ã³ng vai má»™t giáº£ng viÃªn Ä‘áº¡i há»c. Dá»±a trÃªn tÃ i liá»‡u, hÃ£y soáº¡n 3 cÃ¢u há»i á»Ÿ cÃ¡c cáº¥p Ä‘á»™ khÃ¡c nhau: 1. Nháº­n biáº¿t (Vá» Ä‘á»‹nh nghÄ©a há»c mÃ¡y ); 2. ThÃ´ng hiá»ƒu (PhÃ¢n biá»‡t há»c cÃ³ giÃ¡m sÃ¡t vÃ  khÃ´ng giÃ¡m sÃ¡t ); 3. Váº­n dá»¥ng (TÃ­nh toÃ¡n Ä‘á»™ chÃ­nh xÃ¡c tá»« Ma tráº­n nháº§m láº«n ). 
+VÃ­ dá»¥ Ä‘á»‹nh dáº¡ng:
+ CÃ¢u há»i: ... Gá»£i Ã½ tráº£ lá»i: (TrÃ­ch dáº«n sá»‘ trang hoáº·c má»¥c trong tÃ i liá»‡u)."
+4. So sÃ¡nh vÃ  PhÃ¢n tÃ­ch káº¿t quáº£
+TiÃªu chÃ­
+Prompt CÆ¡ báº£n
+Prompt Cáº£i tiáº¿n
+Prompt NÃ¢ng cao
+Äá»™ chÃ­nh xÃ¡c
+Trung bÃ¬nh, dá»… bá»‹ sÃ³t Ã½ quan trá»ng.
+Cao, táº­p trung Ä‘Ãºng trá»ng tÃ¢m.
+Ráº¥t cao, bÃ¡m sÃ¡t cÃ¡c chi tiáº¿t ká»¹ thuáº­t.
+Cáº¥u trÃºc
+Dáº¡ng Ä‘oáº¡n vÄƒn dÃ i, khÃ³ theo dÃµi.
+CÃ³ tiÃªu Ä‘á», rÃµ rÃ ng hÆ¡n.
+ChuyÃªn nghiá»‡p, phÃ¢n cáº¥p thÃ´ng tin rÃµ rá»‡t.
+TÃ­nh á»©ng dá»¥ng
+Chá»‰ Ä‘á»c Ä‘á»ƒ biáº¿t qua.
+DÃ¹ng Ä‘á»ƒ Ã´n thi nhanh.
+DÃ¹ng Ä‘á»ƒ giáº£ng dáº¡y hoáº·c nghiÃªn cá»©u sÃ¢u.
+PhÃ¢n tÃ­ch lÃ½ do hiá»‡u quáº£:
+Context (Ngá»¯ cáº£nh):
+ CÃ¡c prompt nÃ¢ng cao cung cáº¥p vai trÃ² (Role-playing) giÃºp AI xÃ¡c Ä‘á»‹nh tÃ´ng giá»ng phÃ¹ há»£p (vÃ­ dá»¥: ChuyÃªn gia vs. Giáº£ng viÃªn).
+Constraint (RÃ ng buá»™c):
+ Viá»‡c chá»‰ Ä‘á»‹nh cá»¥ thá»ƒ cÃ¡c má»¥c buá»™c AI pháº£i quÃ©t dá»¯ liá»‡u chÃ­nh xÃ¡c thay vÃ¬ tá»± suy diá»…n tá»« kiáº¿n thá»©c bÃªn ngoÃ i.
+Structure (Cáº¥u trÃºc):
+ Prompt nÃ¢ng cao yÃªu cáº§u Ä‘á»‹nh dáº¡ng Ä‘áº§u ra (bullet points, báº£ng, phÃ¢n cáº¥p) giÃºp thÃ´ng tin dá»… tiÃªu hÃ³a hÆ¡n.
+5. Tá»•ng há»£p nguyÃªn táº¯c viáº¿t Prompt hiá»‡u quáº£
+NguyÃªn táº¯c 4C:
+ * 
+Clear (RÃµ rÃ ng):
+ TrÃ¡nh Ä‘áº¡i tá»« mÆ¡ há»“.
+Concise (SÃºc tÃ­ch):
+ Äá»§ Ã½ nhÆ°ng khÃ´ng rÆ°á»m rÃ .
+Context (Ngá»¯ cáº£nh):
+ Cho AI biáº¿t nÃ³ lÃ  ai vÃ  Ä‘ang phá»¥c vá»¥ má»¥c tiÃªu gÃ¬.
+Control (Kiá»ƒm soÃ¡t):
+ Quy Ä‘á»‹nh Ä‘á»‹nh dáº¡ng Ä‘áº§u ra (VÃ­ dá»¥: "KhÃ´ng quÃ¡ 200 chá»¯", "Sá»­ dá»¥ng báº£ng").
+Ká»¹ thuáº­t Chain-of-Thought:
+ YÃªu cáº§u AI suy nghÄ© tá»«ng bÆ°á»›c ("First... then... finally") Ä‘áº·c biá»‡t hiá»‡u quáº£ vá»›i cÃ¡c khÃ¡i niá»‡m toÃ¡n há»c nhÆ° cÃ´ng thá»©c tÃ­nh hay Ma tráº­n nháº§m láº«n.
+Cung cáº¥p vÃ­ dá»¥ (Few-shot):
+ Náº¿u muá»‘n Ä‘áº§u ra theo má»™t khuÃ´n máº«u nháº¥t Ä‘á»‹nh, hÃ£y cung cáº¥p 1-2 vÃ­ dá»¥ máº«u cho AI.

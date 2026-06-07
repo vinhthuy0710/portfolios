@@ -1,0 +1,107 @@
+﻿BÃO CÃO TUáº¦N 2
+TÃ¬m kiáº¿m vÃ  Ä‘Ã¡nh giÃ¡ thÃ´ng tin há»c thuáº­t
+Chá»§ Ä‘á»: á»¨ng dá»¥ng há»c sÃ¢u trong phÃ¡t hiá»‡n mÃ£ Ä‘á»™c
+Sinh viÃªn
+NGUYá»„N THÃ€NH VINH
+ - K70I-
+AI1
+TrÆ°á»ng/Lá»›p há»c pháº§n
+VNU-UET 
+â€“
+ UET
+.E252001
+Email
+Vinhthuy0710@gmail.com
+1. Má»¥c tiÃªu vÃ  pháº¡m vi tÃ¬m kiáº¿m
+BÃ¡o cÃ¡o lá»±a chá»n chá»§ Ä‘á» á»©ng dá»¥ng há»c sÃ¢u trong phÃ¡t hiá»‡n mÃ£ Ä‘á»™c, má»™t hÆ°á»›ng nghiÃªn cá»©u phÃ¹ há»£p vá»›i ngÃ nh CÃ´ng nghá»‡ thÃ´ng tin vÃ  An toÃ n thÃ´ng tin. Má»¥c tiÃªu lÃ  tÃ¬m kiáº¿m, lá»±a chá»n vÃ  Ä‘Ã¡nh giÃ¡ cÃ¡c nguá»“n há»c thuáº­t Ä‘Ã¡ng tin cáº­y Ä‘á»ƒ hiá»ƒu cÃ¡ch deep learning Ä‘Æ°á»£c dÃ¹ng trong phÃ¢n tÃ­ch tá»‡p thá»±c thi, á»©ng dá»¥ng Android vÃ  dá»¯ liá»‡u hÃ nh vi liÃªn quan Ä‘áº¿n mÃ£ Ä‘á»™c.
+Pháº¡m vi tÃ¬m kiáº¿m táº­p trung vÃ o giai Ä‘oáº¡n 2011-2025, Æ°u tiÃªn cÃ¡c bÃ i bÃ¡o Ä‘Æ°á»£c cÃ´ng bá»‘ táº¡i há»™i nghá»‹/táº¡p chÃ­ uy tÃ­n, sÃ¡ch chuyÃªn kháº£o ná»n táº£ng vÃ  nguá»“n má»Ÿ cÃ³ kháº£ nÄƒng kiá»ƒm chá»©ng. CÃ¡c tá»« khÃ³a chÃ­nh gá»“m: deep learning malware detection, MalConv, EMBER dataset, Android malware detection, malware image classification vÃ  explainable malware detection.
+2. Chiáº¿n lÆ°á»£c tÃ¬m kiáº¿m thÃ´ng tin
+CÆ¡ sá»Ÿ dá»¯ liá»‡u há»c thuáº­t: Google Scholar, arXiv, IEEE Xplore, ACM Digital Library vÃ  trang há»™i nghá»‹ NDSS.
+Táº¡p chÃ­ khoa há»c chuyÃªn ngÃ nh: Æ°u tiÃªn IEEE Transactions on Information Forensics and Security vÃ  cÃ¡c áº¥n pháº©m vá» báº£o máº­t.
+SÃ¡ch chuyÃªn kháº£o: chá»n sÃ¡ch ná»n táº£ng vá» phÃ¢n tÃ­ch mÃ£ Ä‘á»™c vÃ  há»c sÃ¢u Ä‘á»ƒ giáº£i thÃ­ch khÃ¡i niá»‡m.
+Nguá»“n má»Ÿ trÃªn internet: dÃ¹ng repository chÃ­nh thá»©c vÃ  knowledge base uy tÃ­n Ä‘á»ƒ kiá»ƒm chá»©ng dá»¯ liá»‡u, ká»¹ thuáº­t vÃ  bá»‘i cáº£nh thá»±c táº¿.
+3. Nháº­n xÃ©t vÃ  Ä‘Ã¡nh giÃ¡ tá»•ng há»£p
+CÃ¡c bÃ i bÃ¡o khoa há»c cÃ³ Ä‘á»™ tin cáº­y cao nháº¥t lÃ  Raff et al. (2018), Anderson and Roth (2018), Arp et al. (2014) vÃ  Yuan, Lu and Xue (2016). CÃ¡c nguá»“n nÃ y cÃ³ cÆ¡ quan xuáº¥t báº£n hoáº·c cá»™ng Ä‘á»“ng há»c thuáº­t rÃµ rÃ ng, mÃ´ táº£ phÆ°Æ¡ng phÃ¡p nghiÃªn cá»©u cá»¥ thá»ƒ, cÃ³ dá»¯ liá»‡u hoáº·c thÃ­ nghiá»‡m kiá»ƒm chá»©ng, vÃ  Ä‘Æ°á»£c sá»­ dá»¥ng rá»™ng rÃ£i trong cÃ¡c nghiÃªn cá»©u sau.
+CÃ¡c sÃ¡ch chuyÃªn kháº£o nhÆ° Practical Malware Analysis vÃ  Deep Learning khÃ´ng trá»±c tiáº¿p thay tháº¿ bÃ i bÃ¡o má»›i, nhÆ°ng Ä‘Ã³ng vai trÃ² ná»n táº£ng: má»™t bÃªn cung cáº¥p kiáº¿n thá»©c phÃ¢n tÃ­ch mÃ£ Ä‘á»™c, bÃªn cÃ²n láº¡i cung cáº¥p cÆ¡ sá»Ÿ lÃ½ thuyáº¿t vá» máº¡ng há»c sÃ¢u. Do Ä‘Ã³, chÃºng Ä‘Æ°á»£c xáº¿p háº¡ng cao vá» uy tÃ­n tÃ¡c giáº£ vÃ  cÆ¡ quan xuáº¥t báº£n, nhÆ°ng tÃ­nh cáº­p nháº­t cáº§n Ä‘Æ°á»£c bá»• sung báº±ng cÃ¡c bÃ i bÃ¡o má»›i.
+CÃ¡c nguá»“n má»Ÿ nhÆ° EMBER GitHub vÃ  MITRE ATT&amp;CK cÃ³ giÃ¡ trá»‹ thá»±c tiá»…n cao vÃ¬ minh báº¡ch, dá»… kiá»ƒm chá»©ng vÃ  thÆ°á»ng Ä‘Æ°á»£c cáº­p nháº­t. Tuy nhiÃªn, khi dÃ¹ng trong bÃ¡o cÃ¡o há»c thuáº­t, cÃ¡c nguá»“n nÃ y nÃªn Ä‘Æ°á»£c 
+Ä‘áº·t cáº¡nh bÃ i bÃ¡o hoáº·c tÃ i liá»‡u chÃ­nh thá»©c Ä‘á»ƒ trÃ¡nh phá»¥ thuá»™c vÃ o thÃ´ng tin chÆ°a qua pháº£n biá»‡n há»c thuáº­t.
+Tá»•ng thá»ƒ, táº­p tÃ i liá»‡u Ä‘Ã£ Ä‘Ã¡p á»©ng yÃªu cáº§u vá» sá»‘ lÆ°á»£ng, loáº¡i nguá»“n vÃ  Ä‘á»™ tin cáº­y. Nguá»“n Ä‘Æ°á»£c chá»n bao quÃ¡t bá»‘n nhÃ³m: há»c thuáº­t, táº¡p chÃ­/há»™i nghá»‹ chuyÃªn ngÃ nh, sÃ¡ch chuyÃªn kháº£o vÃ  nguá»“n má»Ÿ internet. Äiá»u nÃ y giÃºp bÃ¡o cÃ¡o cÃ³ cáº£ ná»n táº£ng lÃ½ thuyáº¿t, báº±ng chá»©ng thá»±c nghiá»‡m vÃ  bá»‘i cáº£nh á»©ng dá»¥ng thá»±c táº¿.
+4. Báº£ng tá»•ng há»£p vÃ  Ä‘Ã¡nh giÃ¡ nguá»“n
+Báº£ng dÆ°á»›i Ä‘Ã¢y tá»•ng há»£p 10 tÃ i liá»‡u tham kháº£o, gá»“m 6 bÃ i bÃ¡o khoa há»c, 2 sÃ¡ch chuyÃªn kháº£o vÃ  2 nguá»“n má»Ÿ internet/dataset. Thang Ä‘iá»ƒm Ä‘á»™ tin cáº­y Ä‘Æ°á»£c cháº¥m tá»« 1 Ä‘áº¿n 5 dá»±a trÃªn tÃ¡c giáº£, cÆ¡ quan xuáº¥t báº£n, phÆ°Æ¡ng phÃ¡p, trÃ­ch dáº«n vÃ  tÃ­nh cáº­p nháº­t.
+STT
+Nguá»“n
+Loáº¡i
+ÄÃ¡nh giÃ¡ Ä‘á»™ tin cáº­y
+Äiá»ƒm
+Xáº¿p háº¡ng
+1
+Saxe and Berlin (2015)
+BÃ i bÃ¡o khoa há»c / arXiv
+TÃ¡c giáº£ thuá»™c Invincea Labs; phÆ°Æ¡ng phÃ¡p dÃ¹ng Ä‘áº·c trÆ°ng nhá»‹ phÃ¢n vÃ  máº¡ng há»c sÃ¢u; bÃ i cÃ³ áº£nh hÆ°á»Ÿng sá»›m trong hÆ°á»›ng deep learning cho malware; nguá»“n arXiv cáº§n Ä‘á»‘i chiáº¿u thÃªm vÃ¬ chÆ°a pháº£i táº¡p chÃ­ pháº£n biá»‡n truyá»n thá»‘ng.
+4/5
+Cao
+2
+Raff et al. (2018)
+BÃ i bÃ¡o khoa há»c / AAAI Workshop
+NhÃ³m tÃ¡c giáº£ cÃ³ ná»n táº£ng nghiÃªn cá»©u ML báº£o máº­t; phÆ°Æ¡ng phÃ¡p MalConv há»c trá»±c tiáº¿p tá»« byte cá»§a file PE; Ä‘Æ°á»£c trÃ­ch dáº«n rá»™ng; phÃ¹ há»£p Ä‘á»ƒ hiá»ƒu hÆ°á»›ng end-to-end nhÆ°ng cáº§n lÆ°u Ã½ chi phÃ­ tÃ­nh toÃ¡n.
+5/5
+Ráº¥t cao
+3
+Anderson and Roth (2018)
+BÃ i bÃ¡o khoa há»c / Dataset
+TÃ¡c giáº£ Ä‘áº¿n tá»« Endgame; Ä‘Ã³ng gÃ³p bá»™ dá»¯ liá»‡u EMBER vÃ  baseline rÃµ rÃ ng; phÆ°Æ¡ng phÃ¡p mÃ´ táº£ Ä‘áº·c trÆ°ng PE minh báº¡ch; ráº¥t há»¯u Ã­ch cho tÃ¡i láº­p vÃ  so sÃ¡nh mÃ´ hÃ¬nh.
+5/5
+Ráº¥t cao
+4
+Arp et al. (2014)
+BÃ i bÃ¡o khoa há»c / NDSS
+NDSS lÃ  há»™i nghá»‹ báº£o máº­t uy tÃ­n; bÃ i cÃ³ phÆ°Æ¡ng phÃ¡p rÃµ rÃ ng vÃ  nháº¥n máº¡nh kháº£ nÄƒng giáº£i thÃ­ch; dÃ¹ táº­p trung Android, tiÃªu chÃ­ Ä‘áº·c trÆ°ng vÃ  Ä‘Ã¡nh giÃ¡ váº«n ráº¥t liÃªn quan Ä‘áº¿n phÃ¡t hiá»‡n mÃ£ Ä‘á»™c.
+5/5
+Ráº¥t cao
+5
+Nataraj et al. (2011)
+BÃ i bÃ¡o khoa há»c / VizSec
+BÃ i giá»›i thiá»‡u cÃ¡ch biá»ƒu diá»…n mÃ£ Ä‘á»™c dÆ°á»›i dáº¡ng áº£nh Ä‘á»ƒ phÃ¢n loáº¡i; phÆ°Æ¡ng phÃ¡p cÃ³ tÃ­nh sÃ¡ng táº¡o vÃ  Ä‘Æ°á»£c dÃ¹ng lÃ m ná»n cho nhiá»u nghiÃªn cá»©u CNN sau nÃ y; tÃ­nh cáº­p nháº­t trung bÃ¬nh vÃ¬ cÃ´ng bá»‘ tá»« 2011.
+4/5
+Cao
+6
+Yuan, Lu and Xue (2016)
+Táº¡p chÃ­ khoa há»c / IEEE TIFS
+IEEE Transactions on Information Forensics and Security lÃ  táº¡p chÃ­ chuyÃªn ngÃ nh uy tÃ­n; bÃ i cÃ³ phÆ°Æ¡ng phÃ¡p há»c sÃ¢u vÃ  Ä‘Ã¡nh giÃ¡ thá»±c nghiá»‡m; phÃ¹ há»£p Ä‘á»ƒ phÃ¢n tÃ­ch tiÃªu chÃ­ tÃ¡c giáº£, phÆ°Æ¡ng phÃ¡p vÃ  trÃ­ch dáº«n.
+5/5
+Ráº¥t cao
+7
+Sikorski and Honig (2012)
+SÃ¡ch chuyÃªn kháº£o
+SÃ¡ch cá»§a No Starch Press Ä‘Æ°á»£c dÃ¹ng rá»™ng rÃ£i trong Ä‘Ã o táº¡o phÃ¢n tÃ­ch mÃ£ Ä‘á»™c; khÃ´ng pháº£i nghiÃªn cá»©u há»c sÃ¢u nhÆ°ng ráº¥t Ä‘Ã¡ng tin cho ná»n táº£ng khÃ¡i niá»‡m, quy trÃ¬nh phÃ¢n tÃ­ch tÄ©nh vÃ  Ä‘á»™ng.
+4/5
+Cao
+8
+Goodfellow, Bengio and Courville (2016)
+SÃ¡ch chuyÃªn kháº£o
+SÃ¡ch ná»n táº£ng vá» deep learning, tÃ¡c giáº£ lÃ  cÃ¡c nhÃ  nghiÃªn cá»©u hÃ ng Ä‘áº§u; phÃ¹ há»£p Ä‘á»ƒ giáº£i thÃ­ch CNN, RNN, biá»ƒu diá»…n Ä‘áº·c trÆ°ng vÃ  overfitting; khÃ´ng chuyÃªn vá» malware nÃªn dÃ¹ng lÃ m ná»n lÃ½ thuyáº¿t.
+5/5
+Ráº¥t cao
+9
+Elastic/Endgame EMBER GitHub (2024)
+Nguá»“n má»Ÿ internet / Dataset
+Kho GitHub chÃ­nh thá»©c giÃºp kiá»ƒm tra dá»¯ liá»‡u, mÃ£ nguá»“n vÃ  cÃ¡ch trÃ­ch xuáº¥t Ä‘áº·c trÆ°ng; cÃ³ tÃ­nh minh báº¡ch cao nhÆ°ng cáº§n dÃ¹ng cÃ¹ng bÃ i bÃ¡o gá»‘c Ä‘á»ƒ Ä‘áº£m báº£o bá»‘i cáº£nh há»c thuáº­t.
+4/5
+Cao
+10
+MITRE ATT&amp;CK (2025)
+Nguá»“n má»Ÿ internet / Knowledge base
+MITRE lÃ  tá»• chá»©c uy tÃ­n trong an ninh máº¡ng; ATT&amp;CK cung cáº¥p tri thá»©c cáº­p nháº­t vá» ká»¹ thuáº­t táº¥n cÃ´ng; khÃ´ng pháº£i bÃ i bÃ¡o nhÆ°ng há»¯u Ã­ch Ä‘á»ƒ liÃªn há»‡ phÃ¡t hiá»‡n mÃ£ Ä‘á»™c vá»›i hÃ nh vi thá»±c táº¿.
+4/5
+Cao
+5. Danh má»¥c tÃ i liá»‡u tham kháº£o theo Harvard
+Saxe, J. and Berlin, K. (2015) 'Deep neural network based malware detection using two dimensional binary program features', arXiv. Available at: https://arxiv.org/abs/1508.03096
+Raff, E., Barker, J., Sylvester, J., Brandon, R., Catanzaro, B. and Nicholas, C.K. (2018) 'Malware detection by eating a whole EXE', Proceedings of the AAAI Workshop on Artificial Intelligence for Cyber Security. Available at: https://arxiv.org/abs/1710.09435
+Anderson, H.S. and Roth, P. (2018) 'EMBER: An Open Dataset for Training Static PE Malware Machine Learning Models', arXiv. Available at: https://arxiv.org/abs/1804.04637
+Arp, D., Spreitzenbarth, M., Hubner, M., Gascon, H., Rieck, K. and Siemens CERT (2014) 'DREBIN: Effective and Explainable Detection of Android Malware in Your Pocket', Network and Distributed System Security Symposium. Available at: https://www.ndss-symposium.org/ndss2014/programme/drebin-effective-and-explainable-detection-android-malware-your-pocket/
+Nataraj, L., Karthikeyan, S., Jacob, G. and Manjunath, B.S. (2011) 'Malware images: visualization and automatic classification', Proceedings of the 8th International Symposium on Visualization for Cyber Security. Available at: https://dl.acm.org/doi/10.1145/2016904.2016908
+Yuan, Z., Lu, Y. and Xue, Y. (2016) 'DroidDetector: Android Malware Characterization and Detection Using Deep Learning', IEEE Transactions on Information Forensics and Security, 11(6), pp. 1140-1154. Available at: https://doi.org/10.1109/TIFS.2016.2514541
+Sikorski, M. and Honig, A. (2012) Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software. San Francisco: No Starch Press.
+Goodfellow, I., Bengio, Y. and Courville, A. (2016) Deep Learning. Cambridge, MA: MIT Press. Available at: https://www.deeplearningbook.org/
+Elastic (2024) EMBER: Endgame Malware BEnchmark for Research. Available at: https://github.com/elastic/ember
+MITRE (2025) MITRE ATT&amp;CK Enterprise Matrix. Available at: https://attack.mitre.org/

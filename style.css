@@ -1271,6 +1271,48 @@ ul, ol {
     animation: fade-in 0.3s ease;
 }
 
+/* ===== Detailed Reports Styles ===== */
+.t6-part {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    border-left: 3px solid var(--accent-primary);
+}
+
+.t6-part-header {
+    margin-bottom: 1rem;
+    padding-bottom: 0.8rem;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.t6-part-title {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.t6-p {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 0.8rem;
+}
+
+.report-img-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1.5rem;
+}
+
+.report-img {
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid var(--border-color);
+}
+
 /* ===== Responsive ===== */
 @media (max-width: 1024px) {
     .hero-container {
@@ -1411,5 +1453,150 @@ ul, ol {
         flex-direction: column;
         align-items: flex-start;
         gap: 0.3rem;
+    }
+}
+
+/* ===== T6 Content Styles ===== */
+.t6-part {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    border-left: 3px solid var(--accent-primary);
+}
+.t6-h4 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--accent-primary);
+    margin: 1.5rem 0 0.8rem;
+    padding-left: 0.8rem;
+    border-left: 2px solid var(--accent-primary);
+}
+.t6-p {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+.t6-col-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+.t6-col-list li {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    padding: 0.5rem 0 0.5rem 1.5rem;
+    border-bottom: 1px dashed var(--border-color);
+    position: relative;
+}
+.t6-col-list li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--accent-primary);
+    font-weight: 700;
+}
+.t6-prompt {
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    margin: 1rem 0;
+    overflow: hidden;
+}
+.t6-prompt-label {
+    background: var(--accent-primary);
+    color: #fff;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+}
+.t6-prompt-body {
+    padding: 1rem;
+    font-style: italic;
+    background: rgba(99, 102, 241, 0.05);
+    font-size: 0.9rem;
+    border-left: 3px solid var(--accent-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+.t6-compare {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+.t6-compare-col {
+    padding: 1.2rem;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background: rgba(255,255,255,0.02);
+}
+.t6-positive {
+    border-top: 3px solid var(--accent-primary);
+}
+.t6-col-label {
+    font-size: 0.85rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 0.8rem;
+    color: var(--accent-primary);
+}
+.t6-callout {
+    background: rgba(99, 102, 241, 0.05);
+    border: 1px solid var(--border-color);
+    border-left: 3px solid var(--accent-primary);
+    padding: 1rem 1.2rem;
+    margin: 1rem 0;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    border-radius: 4px;
+}
+.t6-table-wrap {
+    overflow-x: auto;
+    margin: 1.5rem 0;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+}
+.t6-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+}
+.t6-table thead th {
+    background: rgba(99, 102, 241, 0.1);
+    color: var(--text-primary);
+    font-size: 0.85rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 0.8rem 1rem;
+    text-align: left;
+    border-bottom: 2px solid var(--border-color);
+}
+.t6-table tbody tr:nth-child(even) {
+    background: rgba(255,255,255,0.02);
+}
+.t6-table tbody td {
+    padding: 0.8rem 1rem;
+    border-bottom: 1px solid var(--border-color);
+    color: var(--text-secondary);
+    vertical-align: top;
+}
+.t6-images img {
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+.t6-images img:hover {
+    transform: scale(1.02);
+}
+
+@media (max-width: 768px) {
+    .t6-compare {
+        grid-template-columns: 1fr;
     }
 }
